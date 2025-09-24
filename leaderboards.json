@@ -1,1 +1,2176 @@
-
+{
+  "leaderboards": [
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 53,
+            "exp_total": 132190
+          },
+          "rank": 1,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 32,
+            "exp_total": 26201.53846153846
+          },
+          "rank": 2,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        }
+      ],
+      "profile": "TradingProfile",
+      "display_name": "<lang.leaderboard_trading_level>",
+      "key": "trading"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 61,
+            "exp_total": 247997.203983
+          },
+          "rank": 1,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 60,
+            "exp_total": 227334.043983
+          },
+          "rank": 2,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 45,
+            "exp_total": 65937.055
+          },
+          "rank": 3,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 40,
+            "exp_total": 48267.350000000006
+          },
+          "rank": 4,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 690.5
+          },
+          "rank": 5,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        }
+      ],
+      "profile": "EnchantingProfile",
+      "display_name": "<lang.leaderboard_enchanting_level>",
+      "key": "enchanting"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 63,
+            "exp_total": 304846.9749126339
+          },
+          "rank": 1,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 63,
+            "exp_total": 294386.33677888644
+          },
+          "rank": 2,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 59,
+            "exp_total": 222998.9464786108
+          },
+          "rank": 3,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 54,
+            "exp_total": 139684.50770421227
+          },
+          "rank": 4,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 52,
+            "exp_total": 117541.55722188673
+          },
+          "rank": 5,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 42,
+            "exp_total": 53357.70668707254
+          },
+          "rank": 6,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 32,
+            "exp_total": 25926.40243115609
+          },
+          "rank": 7,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 29,
+            "exp_total": 21636.661767081885
+          },
+          "rank": 8,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 22,
+            "exp_total": 13219.61939021186
+          },
+          "rank": 9,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 850.7257594446951
+          },
+          "rank": 10,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        }
+      ],
+      "profile": "LightArmorProfile",
+      "display_name": "<lang.leaderboard_light_armor_level>",
+      "key": "lightarmor"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 43,
+            "exp_total": 60537.5
+          },
+          "rank": 1,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 35,
+            "exp_total": 32132
+          },
+          "rank": 2,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1550
+          },
+          "rank": 3,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        }
+      ],
+      "profile": "FishingProfile",
+      "display_name": "<lang.leaderboard_fishing_level>",
+      "key": "fishing"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 32,
+            "exp_total": 26719.752000000008
+          },
+          "rank": 1,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 19,
+            "exp_total": 10259.868000000006
+          },
+          "rank": 2,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 17,
+            "exp_total": 9120.240000000002
+          },
+          "rank": 3,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        }
+      ],
+      "profile": "AlchemyProfile",
+      "display_name": "<lang.leaderboard_alchemy_level>",
+      "key": "alchemy"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 44,
+            "exp_total": 63588.800000005824
+          },
+          "rank": 1,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 24,
+            "exp_total": 14752
+          },
+          "rank": 2,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 22,
+            "exp_total": 13315.59999999999
+          },
+          "rank": 3,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 19,
+            "exp_total": 10368
+          },
+          "rank": 4,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 17,
+            "exp_total": 8680
+          },
+          "rank": 5,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 14,
+            "exp_total": 6864.000000000005
+          },
+          "rank": 6,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 13,
+            "exp_total": 6152
+          },
+          "rank": 7,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 5,
+            "exp_total": 2336
+          },
+          "rank": 8,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1303.5999999999992
+          },
+          "rank": 9,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 768
+          },
+          "rank": 10,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        }
+      ],
+      "profile": "DiggingProfile",
+      "display_name": "<lang.leaderboard_digging_level>",
+      "key": "digging"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 54,
+            "exp_total": 144589.8091198964
+          },
+          "rank": 1,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 53,
+            "exp_total": 125236.1534462181
+          },
+          "rank": 2,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 48,
+            "exp_total": 89335.89624416665
+          },
+          "rank": 3,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 45,
+            "exp_total": 70746.28260068406
+          },
+          "rank": 4,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 38,
+            "exp_total": 40353.24434838544
+          },
+          "rank": 5,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 11,
+            "exp_total": 5102.262814702413
+          },
+          "rank": 6,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 9,
+            "exp_total": 3881.440652102587
+          },
+          "rank": 7,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 8,
+            "exp_total": 3611.5809845232548
+          },
+          "rank": 8,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 7,
+            "exp_total": 3229.3854447590115
+          },
+          "rank": 9,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 6,
+            "exp_total": 2599.2041517681896
+          },
+          "rank": 10,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 6,
+            "exp_total": 2482.6873463924517
+          },
+          "rank": 11,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 574.9801550957573
+          },
+          "rank": 12,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        }
+      ],
+      "profile": "LightWeaponsProfile",
+      "display_name": "<lang.leaderboard_light_weapons_level>",
+      "key": "lightweapons"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 86,
+            "exp_total": 2370322.3999998546
+          },
+          "rank": 1,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 70,
+            "exp_total": 555486.6000000032
+          },
+          "rank": 2,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 68,
+            "exp_total": 475261.300000007
+          },
+          "rank": 3,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 67,
+            "exp_total": 421544.89999996434
+          },
+          "rank": 4,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 60,
+            "exp_total": 234202
+          },
+          "rank": 5,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 55,
+            "exp_total": 153256
+          },
+          "rank": 6,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 50,
+            "exp_total": 102458
+          },
+          "rank": 7,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 49,
+            "exp_total": 96116
+          },
+          "rank": 8,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 44,
+            "exp_total": 65090
+          },
+          "rank": 9,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 40,
+            "exp_total": 46404
+          },
+          "rank": 10,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 39,
+            "exp_total": 42028
+          },
+          "rank": 11,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 38,
+            "exp_total": 39638
+          },
+          "rank": 12,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 22,
+            "exp_total": 12580
+          },
+          "rank": 13,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 8388
+          },
+          "rank": 14,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 7908
+          },
+          "rank": 15,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 14,
+            "exp_total": 6920
+          },
+          "rank": 16,
+          "player_name": "AnhBaoClub",
+          "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 10,
+            "exp_total": 4436
+          },
+          "rank": 17,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 9,
+            "exp_total": 3904
+          },
+          "rank": 18,
+          "player_name": "Cyril_Chaos",
+          "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 8,
+            "exp_total": 3448
+          },
+          "rank": 19,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 768
+          },
+          "rank": 20,
+          "player_name": "themoontle",
+          "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
+        }
+      ],
+      "profile": "MiningProfile",
+      "display_name": "<lang.leaderboard_mining_level>",
+      "key": "mining"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 55,
+            "exp_total": 158407.62988438914
+          },
+          "rank": 1,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 41,
+            "exp_total": 50265.78058637074
+          },
+          "rank": 2,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 27,
+            "exp_total": 18662.39877822551
+          },
+          "rank": 3,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 26,
+            "exp_total": 17379.57782451424
+          },
+          "rank": 4,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 23,
+            "exp_total": 13873.604863036351
+          },
+          "rank": 5,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 22,
+            "exp_total": 12784.762240477778
+          },
+          "rank": 6,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 17,
+            "exp_total": 8686.25786570974
+          },
+          "rank": 7,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 8071.588306890534
+          },
+          "rank": 8,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 15,
+            "exp_total": 7489.426298503798
+          },
+          "rank": 9,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 13,
+            "exp_total": 6389.579739419982
+          },
+          "rank": 10,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 11,
+            "exp_total": 5277.235840361281
+          },
+          "rank": 11,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 8,
+            "exp_total": 3502.6440666848307
+          },
+          "rank": 12,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 6,
+            "exp_total": 2793.1080699850295
+          },
+          "rank": 13,
+          "player_name": "Cyril_Chaos",
+          "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 4,
+            "exp_total": 1594.4255386144237
+          },
+          "rank": 14,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1373.6872505296712
+          },
+          "rank": 15,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 994.9412293248199
+          },
+          "rank": 16,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 962.6485899028871
+          },
+          "rank": 17,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 863.7668180912395
+          },
+          "rank": 18,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 798.058143078089
+          },
+          "rank": 19,
+          "player_name": "AnhBaoClub",
+          "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 535.4138601522515
+          },
+          "rank": 20,
+          "player_name": "dunglehongcc",
+          "player_uuid": "2606adca-a27a-34ee-b2e0-c34f9213c94a"
+        }
+      ],
+      "profile": "HeavyWeaponsProfile",
+      "display_name": "<lang.leaderboard_heavy_weapons_level>",
+      "key": "heavyweapons"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 93,
+            "exp_total": 4395255
+          },
+          "rank": 1,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 68,
+            "exp_total": 475878
+          },
+          "rank": 2,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 64,
+            "exp_total": 318497.5
+          },
+          "rank": 3,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 48,
+            "exp_total": 85712.5
+          },
+          "rank": 4,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 46,
+            "exp_total": 73631.75
+          },
+          "rank": 5,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 46,
+            "exp_total": 71430.75
+          },
+          "rank": 6,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 43,
+            "exp_total": 60321.75
+          },
+          "rank": 7,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 40,
+            "exp_total": 47959
+          },
+          "rank": 8,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 36,
+            "exp_total": 34880.25
+          },
+          "rank": 9,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 31,
+            "exp_total": 25131
+          },
+          "rank": 10,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 30,
+            "exp_total": 23029
+          },
+          "rank": 11,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 30,
+            "exp_total": 22704
+          },
+          "rank": 12,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 13,
+            "exp_total": 6291.5
+          },
+          "rank": 13,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 11,
+            "exp_total": 4966
+          },
+          "rank": 14,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 10,
+            "exp_total": 4779.5
+          },
+          "rank": 15,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 7,
+            "exp_total": 3026.5
+          },
+          "rank": 16,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 6,
+            "exp_total": 2856
+          },
+          "rank": 17,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 4,
+            "exp_total": 1651.5
+          },
+          "rank": 18,
+          "player_name": "Cyril_Chaos",
+          "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1350
+          },
+          "rank": 19,
+          "player_name": "nami_ne",
+          "player_uuid": "241ea42b-22eb-36d4-8594-b4a26802379b"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1350
+          },
+          "rank": 20,
+          "player_name": "AnhBaoClub",
+          "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1250
+          },
+          "rank": 21,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 650
+          },
+          "rank": 22,
+          "player_name": "minhducc_10",
+          "player_uuid": "c92cd50c-81dc-367c-b779-b67aa378d853"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 600
+          },
+          "rank": 23,
+          "player_name": "themoontle",
+          "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 550
+          },
+          "rank": 24,
+          "player_name": "yuki_moko",
+          "player_uuid": "132be0e8-dfcb-334d-a0a2-a5d6c4f39306"
+        }
+      ],
+      "profile": "SmithingProfile",
+      "display_name": "<lang.leaderboard_smithing_level>",
+      "key": "smithing"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 62,
+            "exp_total": 286140
+          },
+          "rank": 1,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 57,
+            "exp_total": 187840
+          },
+          "rank": 2,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 50,
+            "exp_total": 100328
+          },
+          "rank": 3,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 50,
+            "exp_total": 97844
+          },
+          "rank": 4,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 44,
+            "exp_total": 64670
+          },
+          "rank": 5,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 44,
+            "exp_total": 64350
+          },
+          "rank": 6,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 43,
+            "exp_total": 58710
+          },
+          "rank": 7,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 37,
+            "exp_total": 36840
+          },
+          "rank": 8,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 33,
+            "exp_total": 28160
+          },
+          "rank": 9,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 28,
+            "exp_total": 19660
+          },
+          "rank": 10,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 19,
+            "exp_total": 10400
+          },
+          "rank": 11,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 18,
+            "exp_total": 9380
+          },
+          "rank": 12,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 17,
+            "exp_total": 8760
+          },
+          "rank": 13,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 7840
+          },
+          "rank": 14,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 13,
+            "exp_total": 6260
+          },
+          "rank": 15,
+          "player_name": "AnhBaoClub",
+          "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 11,
+            "exp_total": 5000
+          },
+          "rank": 16,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 8,
+            "exp_total": 3440
+          },
+          "rank": 17,
+          "player_name": "Cyril_Chaos",
+          "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 7,
+            "exp_total": 2900
+          },
+          "rank": 18,
+          "player_name": "minhducc_10",
+          "player_uuid": "c92cd50c-81dc-367c-b779-b67aa378d853"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 4,
+            "exp_total": 1920
+          },
+          "rank": 19,
+          "player_name": "themoontle",
+          "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1400
+          },
+          "rank": 20,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1400
+          },
+          "rank": 21,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 920
+          },
+          "rank": 22,
+          "player_name": "yuki_moko",
+          "player_uuid": "132be0e8-dfcb-334d-a0a2-a5d6c4f39306"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 640
+          },
+          "rank": 23,
+          "player_name": "nami_ne",
+          "player_uuid": "241ea42b-22eb-36d4-8594-b4a26802379b"
+        }
+      ],
+      "profile": "WoodcuttingProfile",
+      "display_name": "<lang.leaderboard_woodcutting_level>",
+      "key": "woodcutting"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 65,
+            "exp_total": 357060.67526434304
+          },
+          "rank": 1,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 55,
+            "exp_total": 157033.70495300446
+          },
+          "rank": 2,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 47,
+            "exp_total": 81005.25665671306
+          },
+          "rank": 3,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 43,
+            "exp_total": 60403.66886490551
+          },
+          "rank": 4,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 29,
+            "exp_total": 20482.784530426754
+          },
+          "rank": 5,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 28,
+            "exp_total": 19664.67084017311
+          },
+          "rank": 6,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 25,
+            "exp_total": 16077.411302166456
+          },
+          "rank": 7,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 24,
+            "exp_total": 14468.592569816867
+          },
+          "rank": 8,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 20,
+            "exp_total": 11502.31272526138
+          },
+          "rank": 9,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 8387.888533407626
+          },
+          "rank": 10,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 12,
+            "exp_total": 5607.889294303168
+          },
+          "rank": 11,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 8,
+            "exp_total": 3666.9081467042356
+          },
+          "rank": 12,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 635.5093998415183
+          },
+          "rank": 13,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        }
+      ],
+      "profile": "HeavyArmorProfile",
+      "display_name": "<lang.leaderboard_heavy_armor_level>",
+      "key": "heavyarmor"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 66,
+            "exp_total": 375163
+          },
+          "rank": 1,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 61,
+            "exp_total": 257746.99999999537
+          },
+          "rank": 2,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 56,
+            "exp_total": 167555.59999999995
+          },
+          "rank": 3,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 46,
+            "exp_total": 74799.09999999989
+          },
+          "rank": 4,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 42,
+            "exp_total": 52708
+          },
+          "rank": 5,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 40,
+            "exp_total": 45214
+          },
+          "rank": 6,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 37,
+            "exp_total": 36908
+          },
+          "rank": 7,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 35,
+            "exp_total": 31850
+          },
+          "rank": 8,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 28,
+            "exp_total": 19516
+          },
+          "rank": 9,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 23,
+            "exp_total": 13594
+          },
+          "rank": 10,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 17,
+            "exp_total": 8882
+          },
+          "rank": 11,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 15,
+            "exp_total": 7484
+          },
+          "rank": 12,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 12,
+            "exp_total": 5874
+          },
+          "rank": 13,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 12,
+            "exp_total": 5672
+          },
+          "rank": 14,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 11,
+            "exp_total": 5048
+          },
+          "rank": 15,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 10,
+            "exp_total": 4570
+          },
+          "rank": 16,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 5,
+            "exp_total": 2380
+          },
+          "rank": 17,
+          "player_name": "Truyem789",
+          "player_uuid": "245492c3-530b-3a87-8f09-d1d3983be20b"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 5,
+            "exp_total": 2050
+          },
+          "rank": 18,
+          "player_name": "yuki_moko",
+          "player_uuid": "132be0e8-dfcb-334d-a0a2-a5d6c4f39306"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1586
+          },
+          "rank": 19,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 870
+          },
+          "rank": 20,
+          "player_name": "AnhBaoClub",
+          "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 660
+          },
+          "rank": 21,
+          "player_name": "Cyril_Chaos",
+          "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
+        }
+      ],
+      "profile": "FarmingProfile",
+      "display_name": "<lang.leaderboard_farming_level>",
+      "key": "farming"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 63400,
+          "extra_stats": {
+            "level": 50
+          },
+          "rank": 1,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 60100,
+          "extra_stats": {
+            "level": 48
+          },
+          "rank": 2,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 59200,
+          "extra_stats": {
+            "level": 47
+          },
+          "rank": 3,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 53400,
+          "extra_stats": {
+            "level": 44
+          },
+          "rank": 4,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 35400,
+          "extra_stats": {
+            "level": 32
+          },
+          "rank": 5,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 30100,
+          "extra_stats": {
+            "level": 28
+          },
+          "rank": 6,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 26900,
+          "extra_stats": {
+            "level": 25
+          },
+          "rank": 7,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 23900,
+          "extra_stats": {
+            "level": 23
+          },
+          "rank": 8,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 23800,
+          "extra_stats": {
+            "level": 23
+          },
+          "rank": 9,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 23100,
+          "extra_stats": {
+            "level": 22
+          },
+          "rank": 10,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 17600,
+          "extra_stats": {
+            "level": 18
+          },
+          "rank": 11,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 11800,
+          "extra_stats": {
+            "level": 12
+          },
+          "rank": 12,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+        },
+        {
+          "main_stat": 8300,
+          "extra_stats": {
+            "level": 9
+          },
+          "rank": 13,
+          "player_name": "Pencil2502",
+          "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
+        },
+        {
+          "main_stat": 8200,
+          "extra_stats": {
+            "level": 9
+          },
+          "rank": 14,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 5100,
+          "extra_stats": {
+            "level": 5
+          },
+          "rank": 15,
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+        },
+        {
+          "main_stat": 4800,
+          "extra_stats": {
+            "level": 5
+          },
+          "rank": 16,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 4400,
+          "extra_stats": {
+            "level": 5
+          },
+          "rank": 17,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 3400,
+          "extra_stats": {
+            "level": 4
+          },
+          "rank": 18,
+          "player_name": "AnhBaoClub",
+          "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
+        },
+        {
+          "main_stat": 2700,
+          "extra_stats": {
+            "level": 3
+          },
+          "rank": 19,
+          "player_name": "Cyril_Chaos",
+          "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
+        },
+        {
+          "main_stat": 2600,
+          "extra_stats": {
+            "level": 3
+          },
+          "rank": 20,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        },
+        {
+          "main_stat": 500,
+          "extra_stats": {
+            "level": 0
+          },
+          "rank": 21,
+          "player_name": "Truyem789",
+          "player_uuid": "245492c3-530b-3a87-8f09-d1d3983be20b"
+        }
+      ],
+      "profile": "PowerProfile",
+      "display_name": "<lang.leaderboard_power_level>",
+      "key": "power"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 43,
+            "exp_total": 57457.830225566024
+          },
+          "rank": 1,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 28,
+            "exp_total": 19108.668771307413
+          },
+          "rank": 2,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 24,
+            "exp_total": 14396.5691973307
+          },
+          "rank": 3,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 18,
+            "exp_total": 9188.767777628167
+          },
+          "rank": 4,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 8155.986473226019
+          },
+          "rank": 5,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 16,
+            "exp_total": 7893.195837938078
+          },
+          "rank": 6,
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 8,
+            "exp_total": 3639.9830451012335
+          },
+          "rank": 7,
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 7,
+            "exp_total": 2980.263470514427
+          },
+          "rank": 8,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 5,
+            "exp_total": 2319.180682522478
+          },
+          "rank": 9,
+          "player_name": "Lightning",
+          "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 5,
+            "exp_total": 2106.110447868245
+          },
+          "rank": 10,
+          "player_name": "ReapRory",
+          "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 3,
+            "exp_total": 1265.9330454194367
+          },
+          "rank": 11,
+          "player_name": "Demon1",
+          "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 1084.404222750865
+          },
+          "rank": 12,
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 948.6949682896594
+          },
+          "rank": 13,
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 2,
+            "exp_total": 776.695333331334
+          },
+          "rank": 14,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 609.6405628990888
+          },
+          "rank": 15,
+          "player_name": "themoontle",
+          "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
+        }
+      ],
+      "profile": "MartialArtsProfile",
+      "display_name": "<lang.leaderboard_martial_arts_level>",
+      "key": "martial_arts"
+    },
+    {
+      "entries": [
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 51,
+            "exp_total": 107612.11128451767
+          },
+          "rank": 1,
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 27,
+            "exp_total": 18101.689137454952
+          },
+          "rank": 2,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 23,
+            "exp_total": 13491.870282108566
+          },
+          "rank": 3,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 19,
+            "exp_total": 10437.431924884186
+          },
+          "rank": 4,
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 4,
+            "exp_total": 1821.2680457856375
+          },
+          "rank": 5,
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 516.4574588649298
+          },
+          "rank": 6,
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+        }
+      ],
+      "profile": "ArcheryProfile",
+      "display_name": "<lang.leaderboard_archery_level>",
+      "key": "archery"
+    }
+  ],
+  "timestamp": 1758749123204
+}

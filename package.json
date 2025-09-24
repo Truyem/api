@@ -1,0 +1,29 @@
+{
+  "name": "api-data-fetcher",
+  "version": "1.0.0",
+  "description": "Automatic API data fetcher for health, leaderboards, players, and skills",
+  "main": "fetchData.js",
+  "scripts": {
+    "start": "node fetchData.js",
+    "fetch": "node fetchData.js",
+    "auto": "node fetchData.js --auto",
+    "test": "node fetchData.js"
+  },
+  "keywords": [
+    "api",
+    "data-fetcher",
+    "automation",
+    "health-check",
+    "leaderboards",
+    "players",
+    "skills"
+  ],
+  "author": "API Data Fetcher",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

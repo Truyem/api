@@ -1,1 +1,85 @@
-
+{
+  "skills": [
+    {
+      "name": "§7Bắn cung",
+      "description": "§8Luyện tập Bắn cung để tăng sát thương tầm xa, cải thiện độ chính xác, và giết mục tiêu một cách nhất quán ở khoảng cách an toàn. Luyện tập bắn cung mất nhiều thời gian, nhưng có thể nói đây là kỹ năng chiến đấu mạnh nhất trong tất cả",
+      "type": "ARCHERY"
+    },
+    {
+      "name": "§7Áo giáp nặng",
+      "description": "§8Luyện tập Áo giáp nặng để giảm đáng kể sát thương nhận vào, và trở thành một mối đe dọa không thể đánh bại với cái giá phải trả là một số khả năng di chuyển",
+      "type": "HEAVY_ARMOR"
+    },
+    {
+      "name": "§7Đốn gỗ",
+      "description": "§8Luyện tập Đốn gỗ để tăng khả năng thu hoạch gỗ, để tăng cường kỹ năng xây dựng của bạn, và để có được nhiều vật liệu xây dựng hơn từ ít tài nguyên hơn",
+      "type": "WOODCUTTING"
+    },
+    {
+      "name": "§7Sức mạnh",
+      "description": "§8Nâng cấp các kỹ năng khác để nhận exp cho cấp độ sức mạnh của bạn. Lên cấp để nhận điểm kỹ năng để chi tiêu cho bất kỳ đặc quyền nào khác",
+      "type": "POWER"
+    },
+    {
+      "name": "§7Nông nghiệp",
+      "description": "§8Luyện tập Nông nghiệp để tăng sản lượng thu hoạch và động vật, để thu hoạch mật ong an toàn, và để thu thập các loại thực vật và nguyên liệu hiếm.",
+      "type": "FARMING"
+    },
+    {
+      "name": "§7Rèn",
+      "description": "§8Luyện tập Rèn để tạo ra công cụ và thiết bị có chất lượng ngày càng cao",
+      "type": "SMITHING"
+    },
+    {
+      "name": "§7Trading",
+      "description": "§8Practice Trading to get better deals with villagers, and hire them to perform services for you!",
+      "type": "TRADING"
+    },
+    {
+      "name": "§7Áo giáp nhẹ",
+      "description": "§8Luyện tập Áo giáp nhẹ để cải thiện khả năng né tránh và được bảo vệ mà không hy sinh nhiều khả năng di chuyển.",
+      "type": "LIGHT_ARMOR"
+    },
+    {
+      "name": "§7Câu cá",
+      "description": "§8Luyện tập Câu cá để... bắt được nhiều cá hơn. Và để tìm kho báu chìm. Sử dụng mồi để nhận được các vật phẩm hiếm thường xuyên hơn",
+      "type": "FISHING"
+    },
+    {
+      "name": "§7Vũ khí nhẹ",
+      "description": "§8Vũ khí nhẹ không hiệu quả lắm đối với áo giáp nặng, nhưng tấn công nhanh hơn nhiều và với đủ luyện tập có thể đánh bật các đòn tấn công",
+      "type": "LIGHT_WEAPONS"
+    },
+    {
+      "name": "§7Giả kim thuật",
+      "description": "§8Luyện tập Giả kim thuật để tạo ra các loại thuốc và độc dược cực mạnh, và học cách biến đổi vật chất",
+      "type": "ALCHEMY"
+    },
+    {
+      "name": "§7Vũ khí nặng",
+      "description": "§8Vũ khí nặng không hiệu quả lắm trong việc chặn đòn tấn công đến, nhưng đánh mạnh hơn nhiều và hiệu quả hơn đối với áo giáp",
+      "type": "HEAVY_WEAPONS"
+    },
+    {
+      "name": "§7Phù phép",
+      "description": "§8Luyện tập Phù phép để nâng cao khả năng phù phép vật phẩm với ma thuật, cả trên bàn phù phép và đe. Đạt được các cấp độ phù phép trước đây không thể",
+      "type": "ENCHANTING"
+    },
+    {
+      "name": "§7Khai thác",
+      "description": "§8Luyện tập Khai thác để tăng khả năng khai thác quặng, tăng hiệu quả của khai thác bằng nổ, và để có được khoáng chất quý hiếm hữu ích trong chế tạo",
+      "type": "MINING"
+    },
+    {
+      "name": "§7Đào",
+      "description": "§8Luyện tập Đào để tăng số lượng thu hoạch từ đất, để tìm thấy nhiều kho báu hơn trong khảo cổ học, và để có khả năng sàng lọc các vật phẩm nhỏ từ cát và sỏi",
+      "type": "DIGGING"
+    },
+    {
+      "name": "§7Martial Arts",
+      "description": "§8Practice martial arts to increase your offensive and defensive capabilities without material means, and eventually achieve Nirvana",
+      "type": "MARTIAL_ARTS"
+    }
+  ],
+  "timestamp": 1758749123372
+}
