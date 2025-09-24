@@ -9,14 +9,10 @@ on:
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Required to push to repository
 
     steps:
     - name: Checkout code
       uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.PAT_TOKEN }}
 
     - name: Setup Node.js
       uses: actions/setup-node@v4
@@ -41,18 +37,4 @@ jobs:
           *.json
           *_error.json
         retention-days: 7
-
-    - name: Commit and push changes
-      if: success() # Chỉ commit khi thành công
-      run: |
-        git config --global user.name 'GitHub Actions'
-        git config --global user.email 'actions@github.com'
-        git add *.json
-        git add *_error.json
-        if git diff --staged --quiet; then
-          echo "No changes to commit"
-        else
-          git commit -m "Auto-update API data - $(date)"
-          git push
-        fi
 
