@@ -27,3 +27,4 @@ echo ""
 echo "✅ Data fetching completed!"
 echo "📁 Check the JSON files: health.json, leaderboards.json, players.json, skills.json"
 echo ""
+

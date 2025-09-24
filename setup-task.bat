@@ -26,3 +26,4 @@ echo 2. Monitor the JSON files for updates
 echo 3. Check logs if there are any issues
 echo.
 pause
+
