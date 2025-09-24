@@ -6,6 +6,10 @@ on:
     - cron: '* * * * *'
   workflow_dispatch: # Cho phép chạy manual
 
+# Cho phép workflow ghi vào repo (bắt buộc để push)
+permissions:
+  contents: write
+
 jobs:
   fetch-data:
     runs-on: ubuntu-latest
@@ -13,6 +17,9 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # cần lịch sử để commit/push
+          # persist-credentials: true  # mặc định true; giữ nguyên để dùng GITHUB_TOKEN
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -28,12 +35,34 @@ jobs:
         env:
           NODE_ENV: production
 
-      - name: Upload JSON files
+      - name: Upload JSON files (artifact)
         uses: actions/upload-artifact@v4
-        if: always() # Upload ngay cả khi có lỗi
+        if: always()
         with:
           name: api-data-${{ github.run_number }}
           path: |
             *.json
             *_error.json
           retention-days: 7
+
+      - name: Commit updated JSON to repo
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Nhánh hiện tại của workflow (refs/heads/xxx -> xxx)
+          CURRENT_BRANCH="${GITHUB_REF#refs/heads/}"
+
+          git status
+          git add *.json *_error.json 2>/dev/null || true
+
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update API snapshots [skip ci]"
+            git push origin "${CURRENT_BRANCH}"
+            echo "Pushed changes to ${CURRENT_BRANCH}"
+          else
+            echo "No changes to commit"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
