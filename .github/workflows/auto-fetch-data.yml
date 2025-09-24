@@ -38,3 +38,18 @@ jobs:
           *_error.json
         retention-days: 7
 
+- name: Commit updated JSON
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git status
+    git add *.json *_error.json
+    if ! git diff --cached --quiet; then
+      git commit -m "Update API snapshots"
+      git push
+    else
+      echo "No changes to commit"
+    fi
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
