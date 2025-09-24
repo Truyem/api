@@ -30,38 +30,9 @@ const fetchData = async () => {
             fs.writeFileSync(`${key}.json`, JSON.stringify(response.data, null, 2));
             console.log(`✅ Đã lưu thành công ${key}.json (${JSON.stringify(response.data).length} ký tự)`);
         } catch (error) {
-            console.error(`❌ Lỗi khi lấy dữ liệu ${key}: ${error.message}`);
-
-            // Ghi lỗi vào file để debug
-            const errorData = {
-                error: error.message,
-                endpoint: endpoint,
-                timestamp: new Date().toISOString(),
-                status: error.response?.status || 'unknown'
-            };
-
-            fs.writeFileSync(`${key}_error.json`, JSON.stringify(errorData, null, 2));
-            console.log(`📄 Đã ghi thông tin lỗi vào ${key}_error.json`);
+            console.error(`Error fetching ${key}: ${error.message}`);
         }
     }
-
-    console.log('🎉 Hoàn thành quá trình fetch dữ liệu!');
 };
 
-// Kiểm tra xem có tham số --auto không
-const isAutoMode = process.argv.includes('--auto');
-
-// Nếu chạy tự động, sẽ lặp lại mỗi 1 phút
-if (isAutoMode) {
-    console.log('🔄 Chế độ tự động: Lặp lại mỗi 1 phút');
-
-    const runEvery = (minutes) => {
-        fetchData();
-        setTimeout(() => runEvery(minutes), minutes * 60 * 1000);
-    };
-
-    runEvery(1);
-} else {
-    // Chạy một lần
-    fetchData();
-}
+fetchData();
