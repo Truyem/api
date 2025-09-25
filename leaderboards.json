@@ -634,8 +634,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 40,
-            "exp_total": 46404
+            "level": 42,
+            "exp_total": 53664
           },
           "rank": 11,
           "player_name": "keocondepzainhat",
@@ -861,8 +861,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 11,
-            "exp_total": 5277.235840361281
+            "level": 13,
+            "exp_total": 6449.760943844922
           },
           "rank": 12,
           "player_name": "keocondepzainhat",
@@ -1049,21 +1049,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 32,
-            "exp_total": 26644.5
+            "exp_total": 27031
           },
           "rank": 10,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 31,
-            "exp_total": 25131
+            "level": 32,
+            "exp_total": 26644.5
           },
           "rank": 11,
-          "player_name": "keocondepzainhat",
-          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
@@ -1542,22 +1542,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 25,
-            "exp_total": 16077.411302166456
+            "level": 28,
+            "exp_total": 19462.51480020766
           },
           "rank": 8,
-          "player_name": "hungthi",
-          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 24,
-            "exp_total": 14468.592569816867
+            "level": 25,
+            "exp_total": 16077.411302166456
           },
           "rank": 9,
-          "player_name": "keocondepzainhat",
-          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
           "main_stat": 0,
@@ -1952,9 +1952,9 @@
           "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
         },
         {
-          "main_stat": 11800,
+          "main_stat": 12700,
           "extra_stats": {
-            "level": 12
+            "level": 13
           },
           "rank": 13,
           "player_name": "keocondepzainhat",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758842572254
+  "timestamp": 1758843406976
 }
