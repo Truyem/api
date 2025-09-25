@@ -43,7 +43,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 268333.843983
+            "exp_total": 272655.043983
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -110,7 +110,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 63,
-            "exp_total": 292298.9698288802
+            "exp_total": 294454.9059703214
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -120,7 +120,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 57,
-            "exp_total": 174394.35458799897
+            "exp_total": 182703.02732834846
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -417,8 +417,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 54,
-            "exp_total": 141891.15484787754
+            "level": 55,
+            "exp_total": 151347.00986711102
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -751,8 +751,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 57,
-            "exp_total": 188222.24650361686
+            "level": 58,
+            "exp_total": 190270.19302438849
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -959,7 +959,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 93,
-            "exp_total": 4424055
+            "exp_total": 4426935
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1844,7 +1844,7 @@
     {
       "entries": [
         {
-          "main_stat": 67400,
+          "main_stat": 67500,
           "extra_stats": {
             "level": 52
           },
@@ -1871,7 +1871,7 @@
           "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
-          "main_stat": 55400,
+          "main_stat": 55500,
           "extra_stats": {
             "level": 45
           },
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758813625193
+  "timestamp": 1758814794850
 }
