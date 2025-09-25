@@ -179,8 +179,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 12,
-            "exp_total": 5668.103674634401
+            "level": 14,
+            "exp_total": 6608.103674634401
           },
           "rank": 10,
           "player_name": "Ceine",
@@ -321,7 +321,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 19,
-            "exp_total": 10376
+            "exp_total": 10384
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -508,7 +508,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 5,
-            "exp_total": 2057.53842186444
+            "exp_total": 2329.8158618595057
           },
           "rank": 12,
           "player_name": "Ceine",
@@ -665,7 +665,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 22,
-            "exp_total": 12396
+            "exp_total": 12460
           },
           "rank": 14,
           "player_name": "Ceine",
@@ -1138,10 +1138,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 4,
+            "exp_total": 1624
+          },
+          "rank": 19,
+          "player_name": "Ceine",
+          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 3,
             "exp_total": 1350
           },
-          "rank": 19,
+          "rank": 20,
           "player_name": "nami_ne",
           "player_uuid": "241ea42b-22eb-36d4-8594-b4a26802379b"
         },
@@ -1151,7 +1161,7 @@
             "level": 3,
             "exp_total": 1350
           },
-          "rank": 20,
+          "rank": 21,
           "player_name": "AnhBaoClub",
           "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
         },
@@ -1161,7 +1171,7 @@
             "level": 3,
             "exp_total": 1250
           },
-          "rank": 21,
+          "rank": 22,
           "player_name": "ReapRory",
           "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
         },
@@ -1171,7 +1181,7 @@
             "level": 1,
             "exp_total": 650
           },
-          "rank": 22,
+          "rank": 23,
           "player_name": "minhducc_10",
           "player_uuid": "c92cd50c-81dc-367c-b779-b67aa378d853"
         },
@@ -1181,7 +1191,7 @@
             "level": 1,
             "exp_total": 600
           },
-          "rank": 23,
+          "rank": 24,
           "player_name": "themoontle",
           "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
         },
@@ -1191,7 +1201,7 @@
             "level": 1,
             "exp_total": 550
           },
-          "rank": 24,
+          "rank": 25,
           "player_name": "yuki_moko",
           "player_uuid": "132be0e8-dfcb-334d-a0a2-a5d6c4f39306"
         }
@@ -1562,10 +1572,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 2,
+            "exp_total": 1171.4063357232
+          },
+          "rank": 13,
+          "player_name": "Ceine",
+          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 1,
             "exp_total": 635.5093998415183
           },
-          "rank": 13,
+          "rank": 14,
           "player_name": "nunuem",
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
         }
@@ -1630,7 +1650,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 40,
-            "exp_total": 45952
+            "exp_total": 46336
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -1938,22 +1958,22 @@
           "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
         },
         {
-          "main_stat": 4400,
+          "main_stat": 4800,
           "extra_stats": {
             "level": 5
           },
           "rank": 17,
-          "player_name": "ErenYeager",
-          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
-        },
-        {
-          "main_stat": 4000,
-          "extra_stats": {
-            "level": 4
-          },
-          "rank": 18,
           "player_name": "Ceine",
           "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+        },
+        {
+          "main_stat": 4400,
+          "extra_stats": {
+            "level": 5
+          },
+          "rank": 18,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
           "main_stat": 3400,
@@ -2221,5 +2241,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758789733166
+  "timestamp": 1758790631520
 }
