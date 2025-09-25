@@ -525,7 +525,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 68,
-            "exp_total": 475261.300000007
+            "exp_total": 483106.90000000695
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1403,7 +1403,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 65,
-            "exp_total": 357060.67526434304
+            "exp_total": 361445.73279653053
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1550,7 +1550,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 257746.99999999537
+            "exp_total": 258061.99999999537
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1754,7 +1754,7 @@
     {
       "entries": [
         {
-          "main_stat": 63400,
+          "main_stat": 63500,
           "extra_stats": {
             "level": 50
           },
@@ -1973,7 +1973,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 24,
-            "exp_total": 14396.5691973307
+            "exp_total": 14408.3816973307
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -2129,8 +2129,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 23,
-            "exp_total": 13491.870282108566
+            "level": 24,
+            "exp_total": 15328.956095823334
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -2172,5 +2172,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758765534098
+  "timestamp": 1758769631137
 }
