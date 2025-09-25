@@ -21,7 +21,7 @@
     },
     {
       "name": "ZioOnly043",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
       "lastPlayed": 1758774650090
     },
@@ -201,7 +201,7 @@
     },
     {
       "name": "Quoclam277",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "292e7873-887c-3961-b66e-57d4b6730bc9",
       "lastPlayed": 1758778468175
     },
@@ -218,5 +218,5 @@
       "lastPlayed": 1758777137224
     }
   ],
-  "timestamp": 1758784849458
+  "timestamp": 1758785796490
 }
