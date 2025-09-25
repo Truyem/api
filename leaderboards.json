@@ -90,7 +90,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 63,
-            "exp_total": 307534.6280755018
+            "exp_total": 308074.6280755018
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -505,7 +505,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 86,
-            "exp_total": 2400946.3999998546
+            "exp_total": 2422493.599999854
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -515,7 +515,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 586792.2999999893
+            "exp_total": 610102.2999999889
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1403,7 +1403,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 379191.1819747182
+            "exp_total": 384196.50713761145
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1560,7 +1560,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 56,
-            "exp_total": 167555.59999999995
+            "exp_total": 167747.59999999995
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -1754,7 +1754,7 @@
     {
       "entries": [
         {
-          "main_stat": 64700,
+          "main_stat": 64900,
           "extra_stats": {
             "level": 51
           },
@@ -1972,8 +1972,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 24,
-            "exp_total": 14426.1004473307
+            "level": 25,
+            "exp_total": 15388.514865709814
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -2119,8 +2119,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 32,
-            "exp_total": 26231.915971229202
+            "level": 33,
+            "exp_total": 28097.111251621096
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -2172,5 +2172,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758771801645
+  "timestamp": 1758772546703
 }
