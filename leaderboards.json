@@ -862,7 +862,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 13,
-            "exp_total": 6449.760943844922
+            "exp_total": 6493.748438359997
           },
           "rank": 12,
           "player_name": "keocondepzainhat",
@@ -1543,7 +1543,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 28,
-            "exp_total": 19462.51480020766
+            "exp_total": 19994.19117780766
           },
           "rank": 8,
           "player_name": "keocondepzainhat",
@@ -1780,7 +1780,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 10,
-            "exp_total": 4570
+            "exp_total": 4610
           },
           "rank": 17,
           "player_name": "keocondepzainhat",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758843406976
+  "timestamp": 1758844157753
 }
