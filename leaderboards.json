@@ -206,8 +206,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 49,
-            "exp_total": 95975
+            "level": 51,
+            "exp_total": 110071.25
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1853,7 +1853,7 @@
           "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
-          "main_stat": 70500,
+          "main_stat": 70700,
           "extra_stats": {
             "level": 54
           },
@@ -2072,7 +2072,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 26,
-            "exp_total": 17055.06309460954
+            "exp_total": 17116.10419055627
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758831498717
+  "timestamp": 1758832611325
 }
