@@ -100,27 +100,27 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 376168.60568904737
+            "exp_total": 377958.68369905435
           },
           "rank": 2,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 65,
-            "exp_total": 370271.88013761607
-          },
-          "rank": 3,
           "player_name": "noobthichet",
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 66,
+            "exp_total": 376168.60568904737
+          },
+          "rank": 3,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 58,
-            "exp_total": 205161.4799215519
+            "exp_total": 205216.6049215519
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -290,8 +290,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 56,
-            "exp_total": 164829.8000000055
+            "level": 59,
+            "exp_total": 206046.5000000054
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -300,22 +300,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 24,
-            "exp_total": 14752
+            "level": 25,
+            "exp_total": 15995.19999999991
           },
           "rank": 2,
-          "player_name": "baohoang",
-          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 24,
-            "exp_total": 14348.799999999945
+            "exp_total": 14752
           },
           "rank": 3,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
           "main_stat": 0,
@@ -545,7 +545,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 81,
-            "exp_total": 1446845.199999958
+            "exp_total": 1457538.3999999582
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -554,22 +554,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 71,
-            "exp_total": 594589.6999999601
+            "level": 77,
+            "exp_total": 1030708.1999998566
           },
           "rank": 3,
-          "player_name": "Quoclam277",
-          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 591064.8000000217
+            "exp_total": 594589.6999999601
           },
           "rank": 4,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
           "main_stat": 0,
@@ -752,7 +752,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 65,
-            "exp_total": 353846.8403811898
+            "exp_total": 365473.25533358566
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1225,22 +1225,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 57,
-            "exp_total": 187840
+            "level": 61,
+            "exp_total": 253271
           },
           "rank": 2,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 52,
-            "exp_total": 122315
+            "level": 57,
+            "exp_total": 187840
           },
           "rank": 3,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
@@ -1483,7 +1483,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 68,
-            "exp_total": 461640.0546079221
+            "exp_total": 469960.367935963
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1629,8 +1629,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 62,
-            "exp_total": 270122.29999999533
+            "level": 64,
+            "exp_total": 331797.1999999953
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1844,9 +1844,9 @@
     {
       "entries": [
         {
-          "main_stat": 74900,
+          "main_stat": 76400,
           "extra_stats": {
-            "level": 56
+            "level": 57
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1871,7 +1871,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 56800,
+          "main_stat": 57500,
           "extra_stats": {
             "level": 46
           },
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758876738471
+  "timestamp": 1758878312953
 }
