@@ -100,7 +100,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 67,
-            "exp_total": 429920.8549553805
+            "exp_total": 430708.3549553805
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -120,7 +120,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 59,
-            "exp_total": 220167.93720769367
+            "exp_total": 221711.24970702673
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -130,7 +130,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 143744.68134627404
+            "exp_total": 144959.68134627404
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -291,7 +291,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 278833.55000000505
+            "exp_total": 278841.9500000051
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -408,7 +408,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 59,
-            "exp_total": 208249.21476636454
+            "exp_total": 209140.60679400933
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -438,7 +438,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 41,
-            "exp_total": 50843.7722421852
+            "exp_total": 51632.46553970762
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -545,7 +545,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 85,
-            "exp_total": 2039862.0999999426
+            "exp_total": 2041542.0999999426
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -555,7 +555,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 81,
-            "exp_total": 1498319.3999997526
+            "exp_total": 1509575.3999997447
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1048,8 +1048,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 35,
-            "exp_total": 32427.5
+            "level": 36,
+            "exp_total": 33877.5
           },
           "rank": 10,
           "player_name": "Tlywind",
@@ -1285,8 +1285,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 37,
-            "exp_total": 38220
+            "level": 38,
+            "exp_total": 41380
           },
           "rank": 8,
           "player_name": "hungthi",
@@ -1483,7 +1483,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 525761.2819217159
+            "exp_total": 526548.7819217159
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1710,7 +1710,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 26,
-            "exp_total": 16952
+            "exp_total": 17032
           },
           "rank": 10,
           "player_name": "hungthi",
@@ -1889,7 +1889,7 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 32800,
+          "main_stat": 32900,
           "extra_stats": {
             "level": 30
           },
@@ -1898,7 +1898,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 29500,
+          "main_stat": 29600,
           "extra_stats": {
             "level": 27
           },
@@ -2062,7 +2062,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 28,
-            "exp_total": 19957.54526839781
+            "exp_total": 20120.40698471155
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758897370018
+  "timestamp": 1758898109301
 }
