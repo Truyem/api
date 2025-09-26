@@ -90,7 +90,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 528885.5867544169
+            "exp_total": 530211.5867544169
           },
           "rank": 1,
           "player_name": "Quoclam277",
@@ -398,7 +398,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 59,
-            "exp_total": 211652.93207072146
+            "exp_total": 212310.26148459356
           },
           "rank": 1,
           "player_name": "Quoclam277",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758900502150
+  "timestamp": 1758901390682
 }
