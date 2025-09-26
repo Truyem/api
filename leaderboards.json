@@ -615,7 +615,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 44,
-            "exp_total": 65274
+            "exp_total": 65574
           },
           "rank": 9,
           "player_name": "Tlywind",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758886813575
+  "timestamp": 1758887549615
 }
