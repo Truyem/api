@@ -53,7 +53,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 47,
-            "exp_total": 78749.88999999998
+            "exp_total": 80367.41499999998
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -120,7 +120,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 58,
-            "exp_total": 192630.1879875764
+            "exp_total": 194702.10484468835
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -311,7 +311,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 23,
-            "exp_total": 13735.599999999971
+            "exp_total": 13903.599999999964
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -418,7 +418,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 55,
-            "exp_total": 154070.95151283676
+            "exp_total": 155397.9979795454
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758868358838
+  "timestamp": 1758869510270
 }
