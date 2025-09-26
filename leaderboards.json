@@ -120,7 +120,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 59,
-            "exp_total": 221711.24970702673
+            "exp_total": 222966.97511065172
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -130,7 +130,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 144959.68134627404
+            "exp_total": 146521.06581605802
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -301,7 +301,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 26,
-            "exp_total": 16549.59999999991
+            "exp_total": 16557.999999999913
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -321,7 +321,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 23,
-            "exp_total": 14040
+            "exp_total": 14104
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -438,7 +438,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 41,
-            "exp_total": 51632.46553970762
+            "exp_total": 52149.16250392179
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -978,8 +978,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 72,
-            "exp_total": 652397.5
+            "level": 79,
+            "exp_total": 1244597.5
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1710,7 +1710,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 26,
-            "exp_total": 17032
+            "exp_total": 17112
           },
           "rank": 10,
           "player_name": "hungthi",
@@ -1871,7 +1871,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 58600,
+          "main_stat": 59300,
           "extra_stats": {
             "level": 47
           },
@@ -2271,5 +2271,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758898109301
+  "timestamp": 1758898919959
 }
