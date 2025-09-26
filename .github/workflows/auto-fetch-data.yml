@@ -3,7 +3,7 @@ name: Auto Fetch API Data
 on:
   schedule:
     # Chạy mỗi phút
-    - cron: '* * * * *'
+    - cron: '0 */1 * * *'
   workflow_dispatch: # Cho phép chạy manual
 
 # Cho phép workflow ghi vào repo (bắt buộc để push)
