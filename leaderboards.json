@@ -1690,21 +1690,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 42,
-            "exp_total": 53648
+            "exp_total": 54800
           },
           "rank": 5,
-          "player_name": "NamDuyGaming",
-          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 42,
-            "exp_total": 53420
+            "exp_total": 53648
           },
           "rank": 6,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
         },
         {
           "main_stat": 0,
@@ -2311,5 +2311,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758993340495
+  "timestamp": 1759004402885
 }
