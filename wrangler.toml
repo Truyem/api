@@ -2,14 +2,19 @@ name = "api-fetch-worker"
 compatibility_date = "2025-09-27"
 
 [triggers]
-crons = ["0 * * * *"]  # Run at the top of every hour
+crons = ["0 * * * *"]
 
 [[kv_namespaces]]
-binding = "DATA"
-id = "<YOUR_PRODUCTION_NAMESPACE_ID>"
-preview_id = "<YOUR_PREVIEW_NAMESPACE_ID>"
+binding   = "DATA"
+id        = "<PROD_KV_ID>"
+preview_id= "<PREVIEW_KV_ID>"
 
 [vars]
-REPO_OWNER = "Truyem"
-REPO_NAME  = "api"
+REPO_OWNER  = "Truyem"
+REPO_NAME   = "api"
 REPO_BRANCH = "main"
+
+[[secrets_store_secrets]]
+binding     = "GITHUB_TOKEN"
+store_id    = "default"
+secret_name = "github-token"
