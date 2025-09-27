@@ -130,7 +130,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 57,
-            "exp_total": 181257.94670096313
+            "exp_total": 182928.2630132448
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -160,7 +160,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 31,
-            "exp_total": 23811.229539282584
+            "exp_total": 24388.037270560144
           },
           "rank": 8,
           "player_name": "Tlywind",
@@ -311,7 +311,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 45,
-            "exp_total": 68436.4000000024
+            "exp_total": 69982.00000000249
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -340,8 +340,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 23,
-            "exp_total": 13352
+            "level": 24,
+            "exp_total": 14432
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -448,7 +448,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 44,
-            "exp_total": 64413.821604919394
+            "exp_total": 64617.81658050032
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -565,7 +565,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 86,
-            "exp_total": 2311160.0999999493
+            "exp_total": 2332491.89999995
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -585,7 +585,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 65,
-            "exp_total": 363752
+            "exp_total": 365004
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -625,7 +625,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 48,
-            "exp_total": 88818
+            "exp_total": 88854
           },
           "rank": 9,
           "player_name": "Tlywind",
@@ -781,8 +781,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 47,
-            "exp_total": 82377.32273837154
+            "level": 49,
+            "exp_total": 91753.51744066305
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -811,8 +811,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 34,
-            "exp_total": 31034.028071716417
+            "level": 35,
+            "exp_total": 31411.836132901994
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -988,8 +988,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 89,
-            "exp_total": 2968753.0349999997
+            "level": 96,
+            "exp_total": 5866753.035
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -999,7 +999,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1375637.5
+            "exp_total": 1379417.5
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1523,7 +1523,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 258775.8510500209
+            "exp_total": 260985.1611061201
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1552,8 +1552,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 35,
-            "exp_total": 33101.35859803475
+            "level": 36,
+            "exp_total": 33657.67088203452
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -1582,8 +1582,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 27,
-            "exp_total": 18855.631832252922
+            "level": 28,
+            "exp_total": 19262.931178381194
           },
           "rank": 9,
           "player_name": "hungthi",
@@ -1650,7 +1650,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1346777.5999999954
+            "exp_total": 1346861.5999999954
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1660,7 +1660,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 388092.7000000009
+            "exp_total": 389151.1000000009
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1740,7 +1740,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 27,
-            "exp_total": 18254
+            "exp_total": 18264
           },
           "rank": 10,
           "player_name": "hungthi",
@@ -1874,7 +1874,7 @@
     {
       "entries": [
         {
-          "main_stat": 91400,
+          "main_stat": 92100,
           "extra_stats": {
             "level": 65
           },
@@ -1901,7 +1901,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 65700,
+          "main_stat": 65900,
           "extra_stats": {
             "level": 51
           },
@@ -1910,13 +1910,13 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 35400,
+          "main_stat": 35500,
           "extra_stats": {
             "level": 32
           },
           "rank": 5,
-          "player_name": "baohoang",
-          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+          "player_name": "hungthi",
+          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
           "main_stat": 35400,
@@ -1924,11 +1924,11 @@
             "level": 32
           },
           "rank": 6,
-          "player_name": "hungthi",
-          "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 32800,
+          "main_stat": 33100,
           "extra_stats": {
             "level": 30
           },
@@ -2311,5 +2311,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1758976627044
+  "timestamp": 1758979301871
 }
