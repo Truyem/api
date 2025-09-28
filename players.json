@@ -143,7 +143,7 @@
       "name": "bachthai",
       "isOnline": false,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
-      "lastPlayed": 1758989722621
+      "lastPlayed": 1759019661182
     },
     {
       "name": "yuki_moko",
@@ -231,10 +231,10 @@
     },
     {
       "name": "hungthi",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1759014921465
+      "lastPlayed": 1759021387659
     }
   ],
-  "timestamp": 1759015035127
+  "timestamp": 1759023905564
 }
