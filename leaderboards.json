@@ -90,7 +90,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 664256.7931845086
+            "exp_total": 664571.7931845086
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -110,7 +110,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 67,
-            "exp_total": 411012.975192966
+            "exp_total": 428455.62545575213
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -361,7 +361,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 16,
-            "exp_total": 8016.000000000026
+            "exp_total": 8064.000000000026
           },
           "rank": 6,
           "player_name": "ZioOnly043",
@@ -438,7 +438,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 58,
-            "exp_total": 197116.65272413567
+            "exp_total": 204731.28192086561
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -447,8 +447,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 51,
-            "exp_total": 113369.91046288647
+            "level": 52,
+            "exp_total": 118276.40972642213
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -575,7 +575,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 94,
-            "exp_total": 4590324.7999993125
+            "exp_total": 4605636.7999993125
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -595,7 +595,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1388438
+            "exp_total": 1414282
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -791,22 +791,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 72,
-            "exp_total": 645613.2493111582
+            "level": 74,
+            "exp_total": 815138.7831719375
           },
           "rank": 1,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 70,
-            "exp_total": 555870.7442447098
+            "level": 72,
+            "exp_total": 645881.8547076387
           },
           "rank": 2,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
@@ -1006,24 +1006,24 @@
     {
       "entries": [
         {
-          "main_stat": 0,
+          "main_stat": 1,
           "extra_stats": {
-            "level": 100,
-            "exp_total": 8169495
+            "level": 28,
+            "exp_total": 8095976.535
           },
           "rank": 1,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 8071779.285
+            "exp_total": 8169495
           },
           "rank": 2,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
@@ -1296,7 +1296,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 58,
-            "exp_total": 189088
+            "exp_total": 189184
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -1543,7 +1543,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1315889.5268115392
+            "exp_total": 1412674.4416679766
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1573,7 +1573,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 50,
-            "exp_total": 99311.3697578929
+            "exp_total": 102479.35936433711
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1709,8 +1709,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 56,
-            "exp_total": 173205.19999999992
+            "level": 57,
+            "exp_total": 184552.3999999999
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -1924,18 +1924,18 @@
     {
       "entries": [
         {
-          "main_stat": 95200,
+          "main_stat": 98000,
           "extra_stats": {
-            "level": 67
+            "level": 68
           },
           "rank": 1,
           "player_name": "noobthichet",
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 75200,
+          "main_stat": 75800,
           "extra_stats": {
-            "level": 56
+            "level": 57
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -1960,7 +1960,7 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 42800,
+          "main_stat": 42900,
           "extra_stats": {
             "level": 37
           },
@@ -2200,8 +2200,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 11,
-            "exp_total": 5172.723943345808
+            "level": 12,
+            "exp_total": 5509.172501769866
           },
           "rank": 7,
           "player_name": "ZioOnly043",
@@ -2370,5 +2370,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759051100715
+  "timestamp": 1759054710555
 }
