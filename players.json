@@ -99,9 +99,9 @@
     },
     {
       "name": "noobthichet",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "c3837209-9629-3134-a93c-b74ec28f0eee",
-      "lastPlayed": 1759064319554
+      "lastPlayed": 1759067591833
     },
     {
       "name": "Lightning",
@@ -177,7 +177,7 @@
     },
     {
       "name": "Tlywind",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
       "lastPlayed": 1758993942139
     },
@@ -236,5 +236,5 @@
       "lastPlayed": 1759060758916
     }
   ],
-  "timestamp": 1759065758542
+  "timestamp": 1759068962265
 }
