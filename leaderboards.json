@@ -90,7 +90,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 665227.8249741138
+            "exp_total": 665689.8249741138
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -447,8 +447,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 52,
-            "exp_total": 118276.40972642213
+            "level": 53,
+            "exp_total": 135142.28131433262
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -594,8 +594,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 80,
-            "exp_total": 1414282
+            "level": 81,
+            "exp_total": 1464626
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1008,8 +1008,8 @@
         {
           "main_stat": 1,
           "extra_stats": {
-            "level": 43,
-            "exp_total": 8136611.535
+            "level": 53,
+            "exp_total": 8204651.535
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1572,8 +1572,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 50,
-            "exp_total": 102479.35936433711
+            "level": 52,
+            "exp_total": 123743.51944493875
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1710,7 +1710,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 57,
-            "exp_total": 184888.3999999999
+            "exp_total": 184936.3999999999
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -1770,7 +1770,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 29,
-            "exp_total": 21234
+            "exp_total": 21394
           },
           "rank": 9,
           "player_name": "hungthi",
@@ -1924,7 +1924,7 @@
     {
       "entries": [
         {
-          "main_stat": 99500,
+          "main_stat": 100500,
           "extra_stats": {
             "level": 69
           },
@@ -1960,7 +1960,7 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 42900,
+          "main_stat": 43300,
           "extra_stats": {
             "level": 37
           },
@@ -2370,5 +2370,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759058072522
+  "timestamp": 1759063066035
 }
