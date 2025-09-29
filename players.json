@@ -21,7 +21,7 @@
     },
     {
       "name": "ZioOnly043",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
       "lastPlayed": 1759146584745
     },
@@ -135,13 +135,13 @@
     },
     {
       "name": "Ceine",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7",
-      "lastPlayed": 1759144464996
+      "lastPlayed": 1759154306667
     },
     {
       "name": "bachthai",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
       "lastPlayed": 1759132467359
     },
@@ -236,5 +236,5 @@
       "lastPlayed": 1759089733173
     }
   ],
-  "timestamp": 1759152638965
+  "timestamp": 1759155656315
 }
