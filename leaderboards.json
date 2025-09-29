@@ -110,7 +110,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 68,
-            "exp_total": 466100.48356284044
+            "exp_total": 466280.48356284044
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -341,7 +341,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 48,
-            "exp_total": 88502.39999999602
+            "exp_total": 88675.19999999601
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -1563,7 +1563,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 84,
-            "exp_total": 2029284.8204589128
+            "exp_total": 2029824.8204589128
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2211,7 +2211,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 18,
-            "exp_total": 9534.935467451603
+            "exp_total": 9578.675467451603
           },
           "rank": 6,
           "player_name": "ZioOnly043",
@@ -2400,5 +2400,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759170618016
+  "timestamp": 1759173403387
 }
