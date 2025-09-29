@@ -33,7 +33,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 65,
-            "exp_total": 345189.1399999999
+            "exp_total": 356866.8149999999
           },
           "rank": 1,
           "player_name": "bachthai",
@@ -120,7 +120,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 251383.28769653328
+            "exp_total": 252445.59938140155
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -179,8 +179,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 14,
-            "exp_total": 6767.680035268776
+            "level": 20,
+            "exp_total": 11262.046313812742
           },
           "rank": 10,
           "player_name": "Ceine",
@@ -236,22 +236,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 6,
-            "exp_total": 2600
+            "level": 15,
+            "exp_total": 7425
           },
           "rank": 3,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 6,
-            "exp_total": 2495
+            "exp_total": 2600
           },
           "rank": 4,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
@@ -330,8 +330,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 46,
-            "exp_total": 71244.40000000261
+            "level": 50,
+            "exp_total": 103552.79999999898
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -487,8 +487,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 17,
-            "exp_total": 8783.098080747457
+            "level": 18,
+            "exp_total": 9275.699050689955
           },
           "rank": 7,
           "player_name": "Ceine",
@@ -665,9 +665,19 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 45,
-            "exp_total": 67432
+            "exp_total": 70360
           },
           "rank": 10,
+          "player_name": "Ceine",
+          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 45,
+            "exp_total": 67432
+          },
+          "rank": 11,
           "player_name": "keocondepzainhat",
           "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
@@ -677,19 +687,9 @@
             "level": 44,
             "exp_total": 65090
           },
-          "rank": 11,
+          "rank": 12,
           "player_name": "nunuem",
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 42,
-            "exp_total": 55124
-          },
-          "rank": 12,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
         },
         {
           "main_stat": 0,
@@ -812,7 +812,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 650129.5444918474
+            "exp_total": 651158.6877658542
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -821,8 +821,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 59,
-            "exp_total": 210802.37967455052
+            "level": 70,
+            "exp_total": 543312.4788780154
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -921,10 +921,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 13,
+            "exp_total": 6077.896810068257
+          },
+          "rank": 13,
+          "player_name": "Ceine",
+          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 6,
             "exp_total": 2793.1080699850295
           },
-          "rank": 13,
+          "rank": 14,
           "player_name": "Cyril_Chaos",
           "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
         },
@@ -934,7 +944,7 @@
             "level": 4,
             "exp_total": 1594.4255386144237
           },
-          "rank": 14,
+          "rank": 15,
           "player_name": "ErenYeager",
           "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
@@ -944,19 +954,9 @@
             "level": 3,
             "exp_total": 1373.6872505296712
           },
-          "rank": 15,
+          "rank": 16,
           "player_name": "Lightning",
           "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 2,
-            "exp_total": 1025.8583539261913
-          },
-          "rank": 16,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
         },
         {
           "main_stat": 0,
@@ -1138,8 +1138,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 14,
-            "exp_total": 6826.5
+            "level": 17,
+            "exp_total": 8601.5
           },
           "rank": 13,
           "player_name": "Ceine",
@@ -1385,8 +1385,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 19,
-            "exp_total": 10650
+            "level": 20,
+            "exp_total": 10770
           },
           "rank": 11,
           "player_name": "Ceine",
@@ -1562,22 +1562,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 72,
-            "exp_total": 656347.9913249819
+            "level": 75,
+            "exp_total": 874610.5096641295
           },
           "rank": 2,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 69,
-            "exp_total": 512629.10977692145
+            "level": 72,
+            "exp_total": 673210.409111552
           },
           "rank": 3,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
@@ -1642,8 +1642,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 26,
-            "exp_total": 16948.87704967061
+            "level": 27,
+            "exp_total": 18262.213905029985
           },
           "rank": 10,
           "player_name": "Ceine",
@@ -1700,7 +1700,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1365948.4999999958
+            "exp_total": 1366074.4999999958
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1710,7 +1710,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 391112.50000000093
+            "exp_total": 398450.50000000093
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1799,8 +1799,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 23,
-            "exp_total": 13708
+            "level": 24,
+            "exp_total": 14676
           },
           "rank": 11,
           "player_name": "Ceine",
@@ -1943,22 +1943,22 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 77600,
+          "main_stat": 77700,
           "extra_stats": {
             "level": 58
           },
           "rank": 2,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
-        },
-        {
-          "main_stat": 74700,
-          "extra_stats": {
-            "level": 56
-          },
-          "rank": 3,
           "player_name": "bachthai",
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+        },
+        {
+          "main_stat": 77600,
+          "extra_stats": {
+            "level": 58
+          },
+          "rank": 3,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 68800,
@@ -2024,22 +2024,22 @@
           "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
         },
         {
-          "main_stat": 17600,
+          "main_stat": 18400,
           "extra_stats": {
             "level": 18
           },
           "rank": 11,
-          "player_name": "nunuem",
-          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
-        },
-        {
-          "main_stat": 15700,
-          "extra_stats": {
-            "level": 16
-          },
-          "rank": 12,
           "player_name": "Ceine",
           "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+        },
+        {
+          "main_stat": 17600,
+          "extra_stats": {
+            "level": 18
+          },
+          "rank": 12,
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
         },
         {
           "main_stat": 14300,
@@ -2191,7 +2191,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 19,
-            "exp_total": 10073.410022302472
+            "exp_total": 10126.488783875402
           },
           "rank": 5,
           "player_name": "bachthai",
@@ -2380,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759119950652
+  "timestamp": 1759123233349
 }
