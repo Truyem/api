@@ -361,7 +361,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 26,
-            "exp_total": 17376
+            "exp_total": 17392
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -2400,5 +2400,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759184224424
+  "timestamp": 1759187899702
 }
