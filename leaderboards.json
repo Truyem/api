@@ -110,7 +110,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 496822.990027256
+            "exp_total": 511329.71341625665
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -139,8 +139,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 48,
-            "exp_total": 87953.0903193475
+            "level": 51,
+            "exp_total": 110020.3313985352
           },
           "rank": 6,
           "player_name": "baohoang",
@@ -331,7 +331,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 110923.2799999983
+            "exp_total": 110932.8799999983
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -341,7 +341,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 49,
-            "exp_total": 92006.39999999557
+            "exp_total": 92102.39999999557
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -371,7 +371,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 24,
-            "exp_total": 14752
+            "exp_total": 14816
           },
           "rank": 6,
           "player_name": "baohoang",
@@ -391,7 +391,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 11,
-            "exp_total": 4913.199999999997
+            "exp_total": 4922.799999999997
           },
           "rank": 8,
           "player_name": "Quoclam277",
@@ -427,8 +427,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 62,
-            "exp_total": 286549.0348508698
+            "level": 63,
+            "exp_total": 302030.88198867824
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -477,22 +477,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 20,
-            "exp_total": 11263.990918438278
+            "level": 25,
+            "exp_total": 16373.105349364614
           },
           "rank": 6,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 14,
-            "exp_total": 6817.5345095348275
+            "level": 20,
+            "exp_total": 11263.990918438278
           },
           "rank": 7,
-          "player_name": "baohoang",
-          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
@@ -575,7 +575,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 99,
-            "exp_total": 7424143.9999990715
+            "exp_total": 7454760.7999990815
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -585,7 +585,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 90,
-            "exp_total": 3455088.899999927
+            "exp_total": 3459744.8999999287
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -624,8 +624,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 53,
-            "exp_total": 130794
+            "level": 54,
+            "exp_total": 135514
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -782,7 +782,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1335443.94544257
+            "exp_total": 1351988.0956982502
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -791,8 +791,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 77,
-            "exp_total": 1064556.2388158217
+            "level": 78,
+            "exp_total": 1126386.3542200692
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1079,7 +1079,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 38,
-            "exp_total": 39311
+            "exp_total": 39920
           },
           "rank": 10,
           "player_name": "Tlywind",
@@ -1503,7 +1503,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 85,
-            "exp_total": 2111923.31623965
+            "exp_total": 2196690.2629042263
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1513,7 +1513,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1320284.8304804892
+            "exp_total": 1341507.2575290124
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1650,7 +1650,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 401394.3000000009
+            "exp_total": 401430.3000000009
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1670,7 +1670,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 49,
-            "exp_total": 94192
+            "exp_total": 97032
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1679,8 +1679,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 47,
-            "exp_total": 82313.49999999999
+            "level": 48,
+            "exp_total": 83520.69999999998
           },
           "rank": 5,
           "player_name": "Quoclam277",
@@ -1709,8 +1709,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 35,
-            "exp_total": 32890
+            "level": 36,
+            "exp_total": 33810
           },
           "rank": 8,
           "player_name": "baohoang",
@@ -1873,7 +1873,7 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 85400,
+          "main_stat": 85800,
           "extra_stats": {
             "level": 62
           },
@@ -1882,7 +1882,7 @@
           "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
-          "main_stat": 84800,
+          "main_stat": 84900,
           "extra_stats": {
             "level": 62
           },
@@ -1891,7 +1891,7 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 68800,
+          "main_stat": 68900,
           "extra_stats": {
             "level": 53
           },
@@ -1909,16 +1909,16 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 38300,
+          "main_stat": 40000,
           "extra_stats": {
-            "level": 34
+            "level": 35
           },
           "rank": 6,
           "player_name": "baohoang",
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 37800,
+          "main_stat": 37900,
           "extra_stats": {
             "level": 33
           },
@@ -2102,7 +2102,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 29,
-            "exp_total": 20460.890621102026
+            "exp_total": 20814.084375983646
           },
           "rank": 4,
           "player_name": "baohoang",
@@ -2111,22 +2111,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 20,
-            "exp_total": 10931.447669430634
+            "level": 23,
+            "exp_total": 14249.598485394818
           },
           "rank": 5,
-          "player_name": "Quoclam277",
-          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 20,
-            "exp_total": 10822.275679840088
+            "exp_total": 10931.447669430634
           },
           "rank": 6,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "Quoclam277",
+          "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
           "main_stat": 0,
@@ -2238,8 +2238,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 34,
-            "exp_total": 30195.78809432301
+            "level": 36,
+            "exp_total": 34969.66845161833
           },
           "rank": 2,
           "player_name": "baohoang",
@@ -2301,5 +2301,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759242001631
+  "timestamp": 1759245551704
 }
