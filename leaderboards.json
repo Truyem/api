@@ -150,11 +150,11 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 41,
-            "exp_total": 51684.49381695972
+            "exp_total": 51984.49381695972
           },
           "rank": 7,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -414,8 +414,8 @@
             "exp_total": 880
           },
           "rank": 10,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -491,8 +491,8 @@
             "exp_total": 34857.205204756116
           },
           "rank": 6,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -638,8 +638,8 @@
             "exp_total": 174322
           },
           "rank": 6,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -875,8 +875,8 @@
             "exp_total": 20081.002437627823
           },
           "rank": 7,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -1152,8 +1152,8 @@
             "exp_total": 8996.3
           },
           "rank": 13,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -1399,8 +1399,8 @@
             "exp_total": 13570
           },
           "rank": 11,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -1626,8 +1626,8 @@
             "exp_total": 47025.337694235925
           },
           "rank": 7,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -1793,8 +1793,8 @@
             "exp_total": 28874
           },
           "rank": 9,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -2012,8 +2012,8 @@
             "level": 26
           },
           "rank": 8,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 24200,
@@ -2381,8 +2381,8 @@
             "exp_total": 1193.2096009615386
           },
           "rank": 7,
-          "player_name": "Ceine",
-          "player_uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -2400,5 +2400,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759203293906
+  "timestamp": 1759206294285
 }
