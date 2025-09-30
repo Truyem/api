@@ -135,7 +135,7 @@
     },
     {
       "name": "Ceine",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7",
       "lastPlayed": 1759160147326
     },
@@ -236,5 +236,5 @@
       "lastPlayed": 1759186262850
     }
   ],
-  "timestamp": 1759195717074
+  "timestamp": 1759201158989
 }
