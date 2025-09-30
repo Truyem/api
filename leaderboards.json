@@ -100,7 +100,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 70,
-            "exp_total": 554841.6107688289
+            "exp_total": 555374.0176241953
           },
           "rank": 2,
           "player_name": "Quoclam277",
@@ -321,7 +321,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 93,
-            "exp_total": 4389185.600000003
+            "exp_total": 4389269.600000002
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -351,7 +351,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 30,
-            "exp_total": 22224
+            "exp_total": 22464
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -565,7 +565,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 10909816.900000488
+            "exp_total": 10909968.100000491
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -624,8 +624,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 54,
-            "exp_total": 136058
+            "level": 55,
+            "exp_total": 148874
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -802,7 +802,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 73,
-            "exp_total": 696276.7226906605
+            "exp_total": 700009.5652095171
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1246,7 +1246,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 8680655
+            "exp_total": 8685779
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1286,7 +1286,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 50,
-            "exp_total": 98350
+            "exp_total": 100060
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -1523,7 +1523,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 74,
-            "exp_total": 794665.1948829292
+            "exp_total": 800881.4050104013
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1640,7 +1640,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1396593.7999999963
+            "exp_total": 1397200.6999999965
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1670,7 +1670,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 50,
-            "exp_total": 97848
+            "exp_total": 99048
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1918,7 +1918,7 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 38200,
+          "main_stat": 38300,
           "extra_stats": {
             "level": 34
           },
@@ -2122,7 +2122,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 20,
-            "exp_total": 10990.982669430634
+            "exp_total": 11004.212682660635
           },
           "rank": 6,
           "player_name": "Quoclam277",
@@ -2301,5 +2301,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759249598831
+  "timestamp": 1759252694493
 }
