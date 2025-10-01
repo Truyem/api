@@ -110,7 +110,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 519355.6424184536
+            "exp_total": 525935.1318435423
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -427,8 +427,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 63,
-            "exp_total": 312944.9685455306
+            "level": 64,
+            "exp_total": 315693.61115773406
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -575,7 +575,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 99,
-            "exp_total": 7455135.199999083
+            "exp_total": 7455288.799999084
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -782,7 +782,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1377878.4219152592
+            "exp_total": 1401517.3938362855
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1275,8 +1275,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 60,
-            "exp_total": 235060
+            "level": 62,
+            "exp_total": 266980
           },
           "rank": 4,
           "player_name": "ZioOnly043",
@@ -1503,7 +1503,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 86,
-            "exp_total": 2228803.3999743583
+            "exp_total": 2249316.2979343524
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1659,8 +1659,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 58,
-            "exp_total": 199252.3999999999
+            "level": 59,
+            "exp_total": 216304.3999999999
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -1873,7 +1873,7 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 86000,
+          "main_stat": 86400,
           "extra_stats": {
             "level": 62
           },
@@ -2301,5 +2301,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759288340979
+  "timestamp": 1759292654913
 }
