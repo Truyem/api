@@ -198,9 +198,9 @@
       "lastPlayed": 1758701911127
     },
     {
-      "money": 1000.586904296875,
+      "money": 240.58690429687508,
       "name": "D0k11",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c7d3231c-6816-370a-bf50-aee9315f526a",
       "lastPlayed": 1759209702139
     },
@@ -282,5 +282,5 @@
       "lastPlayed": 1759235478505
     }
   ],
-  "timestamp": 1759303243966
+  "timestamp": 1759307267776
 }
