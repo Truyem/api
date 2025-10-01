@@ -114,7 +114,7 @@
       "lastPlayed": 1758296816922
     },
     {
-      "money": 213960,
+      "money": 208761,
       "name": "noobthichet",
       "isOnline": true,
       "uuid": "c3837209-9629-3134-a93c-b74ec28f0eee",
@@ -198,7 +198,7 @@
       "lastPlayed": 1758701911127
     },
     {
-      "money": 240.58690429687508,
+      "money": 744.586904296875,
       "name": "D0k11",
       "isOnline": true,
       "uuid": "c7d3231c-6816-370a-bf50-aee9315f526a",
@@ -282,5 +282,5 @@
       "lastPlayed": 1759235478505
     }
   ],
-  "timestamp": 1759307267776
+  "timestamp": 1759310563374
 }
