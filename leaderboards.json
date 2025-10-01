@@ -179,8 +179,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 10,
-            "exp_total": 4753.2208900000005
+            "level": 12,
+            "exp_total": 5578.2208900000005
           },
           "rank": 10,
           "player_name": "D0k11",
@@ -226,8 +226,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 59,
-            "exp_total": 217738.25
+            "level": 61,
+            "exp_total": 255086.75
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -319,6 +319,16 @@
           "rank": 4,
           "player_name": "ReapRory",
           "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 4,
+            "exp_total": 1800
+          },
+          "rank": 5,
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         }
       ],
       "profile": "AlchemyProfile",
@@ -1924,9 +1934,9 @@
     {
       "entries": [
         {
-          "main_stat": 106900,
+          "main_stat": 107100,
           "extra_stats": {
-            "level": 72
+            "level": 73
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -2032,7 +2042,7 @@
           "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
         {
-          "main_stat": 10300,
+          "main_stat": 10900,
           "extra_stats": {
             "level": 11
           },
@@ -2370,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759310562695
+  "timestamp": 1759314138985
 }
