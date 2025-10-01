@@ -1,5 +1,5 @@
 {
-  "total": 40,
+  "total": 41,
   "players": [
     {
       "money": 0,
@@ -23,11 +23,18 @@
       "lastPlayed": 1758570291956
     },
     {
-      "money": 3199920887855,
+      "money": 3199916081895,
       "name": "ZioOnly043",
       "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
       "lastPlayed": 1759301644984
+    },
+    {
+      "money": 0,
+      "name": "dunglehong999",
+      "isOnline": false,
+      "uuid": "c3598e32-1cea-35c8-9ca7-485bb54c1018",
+      "lastPlayed": 1759320685293
     },
     {
       "money": 0,
@@ -48,7 +55,7 @@
       "name": "dunglehongcc",
       "isOnline": false,
       "uuid": "2606adca-a27a-34ee-b2e0-c34f9213c94a",
-      "lastPlayed": 1758612452449
+      "lastPlayed": 1759321409343
     },
     {
       "money": 0,
@@ -163,9 +170,9 @@
       "lastPlayed": 1759204363305
     },
     {
-      "money": 16100547.5,
+      "money": 12602197.5,
       "name": "bachthai",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
       "lastPlayed": 1759317074215
     },
@@ -275,12 +282,12 @@
       "lastPlayed": 1759031311561
     },
     {
-      "money": 8931752.5,
+      "money": 8611752.5,
       "name": "hungthi",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1759235478505
+      "lastPlayed": 1759322145421
     }
   ],
-  "timestamp": 1759317453297
+  "timestamp": 1759322640608
 }
