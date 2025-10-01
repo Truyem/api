@@ -62,8 +62,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 49,
-            "exp_total": 90204.34999999999
+            "level": 51,
+            "exp_total": 112213.4
           },
           "rank": 4,
           "player_name": "noobthichet",
@@ -90,7 +90,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 681079.2913138107
+            "exp_total": 683459.9095439289
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -110,7 +110,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 70,
-            "exp_total": 544177.7857210462
+            "exp_total": 544267.7857210462
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -841,8 +841,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 73,
-            "exp_total": 746713.9024318076
+            "level": 74,
+            "exp_total": 762606.6691580823
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1029,7 +1029,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16071671.535
+            "exp_total": 16082171.535
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1316,7 +1316,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 267052
+            "exp_total": 267844
           },
           "rank": 4,
           "player_name": "ZioOnly043",
@@ -1553,7 +1553,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 86,
-            "exp_total": 2324177.1591845653
+            "exp_total": 2324357.1591845653
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1573,7 +1573,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 829495.5391341774
+            "exp_total": 857137.7296825772
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1700,7 +1700,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1398586.6999999965
+            "exp_total": 1399195.6999999965
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1934,7 +1934,7 @@
     {
       "entries": [
         {
-          "main_stat": 107200,
+          "main_stat": 107500,
           "extra_stats": {
             "level": 73
           },
@@ -2161,7 +2161,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 39,
-            "exp_total": 44538.49023561231
+            "exp_total": 44725.915229604165
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -2380,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759339089711
+  "timestamp": 1759343371799
 }
