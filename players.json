@@ -172,9 +172,9 @@
     {
       "money": 10860753.5,
       "name": "bachthai",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
-      "lastPlayed": 1759326344133
+      "lastPlayed": 1759334118587
     },
     {
       "money": 0,
@@ -219,11 +219,11 @@
       "lastPlayed": 1758416409679
     },
     {
-      "money": 16217,
+      "money": 15744,
       "name": "Tlywind",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1759256852845
+      "lastPlayed": 1759334034240
     },
     {
       "money": 4890,
@@ -289,5 +289,5 @@
       "lastPlayed": 1759327138747
     }
   ],
-  "timestamp": 1759332024249
+  "timestamp": 1759335982525
 }
