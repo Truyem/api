@@ -27,7 +27,7 @@
       "name": "ZioOnly043",
       "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1759347958144
+      "lastPlayed": 1759378839595
     },
     {
       "money": 0,
@@ -184,11 +184,11 @@
       "lastPlayed": 1758709188754
     },
     {
-      "money": 74741342495.49991,
+      "money": 74741211795.49991,
       "name": "Truyem789",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1759362231097
+      "lastPlayed": 1759378814650
     },
     {
       "money": 40,
@@ -230,7 +230,7 @@
       "name": "NamDuyGaming",
       "isOnline": false,
       "uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0",
-      "lastPlayed": 1758960642893
+      "lastPlayed": 1759377653500
     },
     {
       "money": 15000,
@@ -289,5 +289,5 @@
       "lastPlayed": 1759327138747
     }
   ],
-  "timestamp": 1759375970764
+  "timestamp": 1759379001188
 }
