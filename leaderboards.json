@@ -32,10 +32,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 74,
+            "exp_total": 799132.8499999995
+          },
+          "rank": 1,
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 73,
             "exp_total": 735113.1439830001
           },
-          "rank": 1,
+          "rank": 2,
           "player_name": "ZioOnly043",
           "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
@@ -45,7 +55,7 @@
             "level": 72,
             "exp_total": 643632.1100000003
           },
-          "rank": 2,
+          "rank": 3,
           "player_name": "bachthai",
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
@@ -55,19 +65,9 @@
             "level": 62,
             "exp_total": 281639.08398300014
           },
-          "rank": 3,
+          "rank": 4,
           "player_name": "Quoclam277",
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 56,
-            "exp_total": 171728.975
-          },
-          "rank": 4,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
@@ -1573,7 +1573,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 874083.4667385044
+            "exp_total": 874440.4667385044
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1700,7 +1700,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1399195.6999999965
+            "exp_total": 1399573.6999999965
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1934,9 +1934,9 @@
     {
       "entries": [
         {
-          "main_stat": 108500,
+          "main_stat": 110300,
           "extra_stats": {
-            "level": 73
+            "level": 74
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -2380,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759368443193
+  "timestamp": 1759373888603
 }
