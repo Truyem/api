@@ -227,7 +227,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 67,
-            "exp_total": 426105.5
+            "exp_total": 427307.75
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -1859,8 +1859,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 5,
-            "exp_total": 2400
+            "level": 6,
+            "exp_total": 2520
           },
           "rank": 17,
           "player_name": "Truyem789",
@@ -2132,7 +2132,7 @@
           "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
         },
         {
-          "main_stat": 500,
+          "main_stat": 600,
           "extra_stats": {
             "level": 0
           },
@@ -2380,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759360680324
+  "timestamp": 1759368443193
 }
