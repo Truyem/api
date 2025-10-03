@@ -184,11 +184,11 @@
       "lastPlayed": 1758709188754
     },
     {
-      "money": 74741201805.85492,
+      "money": 74741201818.28091,
       "name": "Truyem789",
       "isOnline": false,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1759428921183
+      "lastPlayed": 1759464269357
     },
     {
       "money": 40,
@@ -230,7 +230,7 @@
       "name": "NamDuyGaming",
       "isOnline": false,
       "uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0",
-      "lastPlayed": 1759459000046
+      "lastPlayed": 1759464691793
     },
     {
       "money": 15000,
@@ -289,5 +289,5 @@
       "lastPlayed": 1759445949030
     }
   ],
-  "timestamp": 1759462335409
+  "timestamp": 1759465388254
 }
