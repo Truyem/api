@@ -421,7 +421,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 6,
-            "exp_total": 2840
+            "exp_total": 2896
           },
           "rank": 9,
           "player_name": "NamDuyGaming",
@@ -665,7 +665,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 106836
+            "exp_total": 110352
           },
           "rank": 8,
           "player_name": "NamDuyGaming",
@@ -1079,7 +1079,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 74450.25
+            "exp_total": 74525.25
           },
           "rank": 6,
           "player_name": "NamDuyGaming",
@@ -1335,8 +1335,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 45,
-            "exp_total": 70920
+            "level": 46,
+            "exp_total": 73500
           },
           "rank": 6,
           "player_name": "NamDuyGaming",
@@ -1987,7 +1987,7 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 24600,
+          "main_stat": 24800,
           "extra_stats": {
             "level": 24
           },
@@ -2140,8 +2140,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 44,
-            "exp_total": 61069.71206876338
+            "level": 45,
+            "exp_total": 67111.9717152387
           },
           "rank": 1,
           "player_name": "NamDuyGaming",
@@ -2370,5 +2370,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759447064543
+  "timestamp": 1759454818275
 }
