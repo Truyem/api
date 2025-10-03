@@ -228,9 +228,9 @@
     {
       "money": 1690,
       "name": "NamDuyGaming",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0",
-      "lastPlayed": 1759474079796
+      "lastPlayed": 1759480826317
     },
     {
       "money": 15000,
@@ -289,5 +289,5 @@
       "lastPlayed": 1759479479577
     }
   ],
-  "timestamp": 1759479978228
+  "timestamp": 1759483193075
 }
