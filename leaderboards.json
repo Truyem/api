@@ -421,7 +421,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 7,
-            "exp_total": 3120
+            "exp_total": 3144
           },
           "rank": 9,
           "player_name": "NamDuyGaming",
@@ -625,7 +625,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 81,
-            "exp_total": 1545670
+            "exp_total": 1545894
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1326,7 +1326,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 48,
-            "exp_total": 88540
+            "exp_total": 88560
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -1573,7 +1573,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 57,
-            "exp_total": 177061.7114622117
+            "exp_total": 177136.7114622117
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1740,7 +1740,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 43,
-            "exp_total": 58548
+            "exp_total": 58668
           },
           "rank": 6,
           "player_name": "NamDuyGaming",
@@ -2370,5 +2370,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759475981770
+  "timestamp": 1759479977462
 }
