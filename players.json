@@ -27,7 +27,7 @@
       "name": "ZioOnly043",
       "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1759570684030
+      "lastPlayed": 1759573292321
     },
     {
       "money": 0,
@@ -172,9 +172,9 @@
     {
       "money": 9260466.5,
       "name": "bachthai",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
-      "lastPlayed": 1759571435676
+      "lastPlayed": 1759573340319
     },
     {
       "money": 0,
@@ -207,23 +207,23 @@
     {
       "money": 4840.586904296874,
       "name": "D0k11",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "c7d3231c-6816-370a-bf50-aee9315f526a",
-      "lastPlayed": 1759565935769
+      "lastPlayed": 1759575295313
     },
     {
-      "money": 11022,
+      "money": 7925,
       "name": "ErenYeager",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547",
-      "lastPlayed": 1759568171101
+      "lastPlayed": 1759575294719
     },
     {
       "money": 19,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1759568171199
+      "lastPlayed": 1759575294911
     },
     {
       "money": 1690,
@@ -289,5 +289,5 @@
       "lastPlayed": 1759569198273
     }
   ],
-  "timestamp": 1759573104784
+  "timestamp": 1759576445276
 }
