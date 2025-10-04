@@ -381,7 +381,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 30,
-            "exp_total": 22144
+            "exp_total": 22304
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -625,7 +625,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 82,
-            "exp_total": 1647752
+            "exp_total": 1652464
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -645,7 +645,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 338750
+            "exp_total": 339006
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -851,8 +851,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 54,
-            "exp_total": 142622.06078622403
+            "level": 56,
+            "exp_total": 168490.0497617676
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1572,8 +1572,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 61,
-            "exp_total": 248292.88043412563
+            "level": 62,
+            "exp_total": 271594.3575475783
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1730,7 +1730,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 113608
+            "exp_total": 113808
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1970,7 +1970,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 48600,
+          "main_stat": 48900,
           "extra_stats": {
             "level": 41
           },
@@ -2380,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759551753779
+  "timestamp": 1759555069995
 }
