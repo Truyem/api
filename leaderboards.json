@@ -73,7 +73,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 25,
-            "exp_total": 15635
+            "exp_total": 16424.6
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -88,6 +88,16 @@
           "rank": 6,
           "player_name": "hungthi",
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 758.0000000000001
+          },
+          "rank": 7,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         }
       ],
       "profile": "EnchantingProfile",
@@ -159,8 +169,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 42,
-            "exp_total": 55299.52488630855
+            "level": 45,
+            "exp_total": 68136.46506822306
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -210,7 +220,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 13,
-            "exp_total": 6178.710050894702
+            "exp_total": 6400.932897919702
           },
           "rank": 12,
           "player_name": "ErenYeager",
@@ -391,7 +401,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 37,
-            "exp_total": 37396
+            "exp_total": 37412.8
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -527,8 +537,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 47,
-            "exp_total": 78177.83814313177
+            "level": 49,
+            "exp_total": 94711.41949945639
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -674,8 +684,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 66,
-            "exp_total": 406198.8
+            "level": 67,
+            "exp_total": 441835.80000000127
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -1218,8 +1228,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 8,
-            "exp_total": 3701.5
+            "level": 10,
+            "exp_total": 4455.25
           },
           "rank": 16,
           "player_name": "ErenYeager",
@@ -1770,7 +1780,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 142600
+            "exp_total": 143818
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -2019,7 +2029,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 49000,
+          "main_stat": 49600,
           "extra_stats": {
             "level": 41
           },
@@ -2109,7 +2119,7 @@
           "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
         },
         {
-          "main_stat": 7400,
+          "main_stat": 7700,
           "extra_stats": {
             "level": 8
           },
@@ -2420,5 +2430,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759587389111
+  "timestamp": 1759591053443
 }
