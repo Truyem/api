@@ -498,7 +498,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 45,
-            "exp_total": 67722.2005065867
+            "exp_total": 68202.95011262386
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -615,7 +615,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 92,
-            "exp_total": 4163530.499999898
+            "exp_total": 4163559.299999898
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -645,7 +645,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 340374
+            "exp_total": 341978
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -832,7 +832,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 82,
-            "exp_total": 1638573.129604172
+            "exp_total": 1642701.310750998
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1119,7 +1119,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 38,
-            "exp_total": 40522
+            "exp_total": 40722
           },
           "rank": 10,
           "player_name": "Tlywind",
@@ -1543,7 +1543,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 89,
-            "exp_total": 3072139.5071283057
+            "exp_total": 3072859.5071283057
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1553,7 +1553,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 81,
-            "exp_total": 1463428.6441261726
+            "exp_total": 1465012.6441261726
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1729,8 +1729,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 51,
-            "exp_total": 113808
+            "level": 52,
+            "exp_total": 124066
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1979,7 +1979,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 44700,
+          "main_stat": 44800,
           "extra_stats": {
             "level": 38
           },
@@ -2380,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759559271293
+  "timestamp": 1759562234215
 }
