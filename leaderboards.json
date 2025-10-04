@@ -179,22 +179,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 12,
-            "exp_total": 5578.2208900000005
+            "level": 15,
+            "exp_total": 7267.624330356249
           },
           "rank": 10,
-          "player_name": "D0k11",
-          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
+          "player_name": "Duoitoasenvang",
+          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 9,
-            "exp_total": 4198.888252106251
+            "level": 12,
+            "exp_total": 5578.2208900000005
           },
           "rank": 11,
-          "player_name": "Duoitoasenvang",
-          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -567,8 +567,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 3,
-            "exp_total": 1277.143017202963
+            "level": 4,
+            "exp_total": 1672.1243577157404
           },
           "rank": 13,
           "player_name": "Duoitoasenvang",
@@ -1672,10 +1672,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 3,
+            "exp_total": 1221.128429
+          },
+          "rank": 14,
+          "player_name": "Duoitoasenvang",
+          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 1,
             "exp_total": 635.5093998415183
           },
-          "rank": 14,
+          "rank": 15,
           "player_name": "nunuem",
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
         }
@@ -2086,11 +2096,20 @@
           "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
-          "main_stat": 3400,
+          "main_stat": 3800,
           "extra_stats": {
             "level": 4
           },
           "rank": 19,
+          "player_name": "Duoitoasenvang",
+          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
+        },
+        {
+          "main_stat": 3400,
+          "extra_stats": {
+            "level": 4
+          },
+          "rank": 20,
           "player_name": "AnhBaoClub",
           "player_uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f"
         },
@@ -2099,18 +2118,9 @@
           "extra_stats": {
             "level": 3
           },
-          "rank": 20,
+          "rank": 21,
           "player_name": "Cyril_Chaos",
           "player_uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1"
-        },
-        {
-          "main_stat": 2700,
-          "extra_stats": {
-            "level": 3
-          },
-          "rank": 21,
-          "player_name": "Duoitoasenvang",
-          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
         },
         {
           "main_stat": 2600,
@@ -2370,5 +2380,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759541090822
+  "timestamp": 1759546314034
 }
