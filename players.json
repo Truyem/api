@@ -214,7 +214,7 @@
     {
       "money": 7070,
       "name": "ErenYeager",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547",
       "lastPlayed": 1759630815279
     },
@@ -289,5 +289,5 @@
       "lastPlayed": 1759626201833
     }
   ],
-  "timestamp": 1759638162663
+  "timestamp": 1759641486185
 }
