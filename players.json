@@ -221,12 +221,12 @@
     {
       "money": 585,
       "name": "ErenYeager",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547",
       "lastPlayed": 1759652112543
     },
     {
-      "money": 39910,
+      "money": 39880,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
@@ -291,10 +291,10 @@
     {
       "money": 8171209.5,
       "name": "hungthi",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
       "lastPlayed": 1759626201833
     }
   ],
-  "timestamp": 1759652593265
+  "timestamp": 1759655863062
 }
