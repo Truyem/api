@@ -93,7 +93,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 4,
-            "exp_total": 1682
+            "exp_total": 1990.5
           },
           "rank": 7,
           "player_name": "ErenYeager",
@@ -219,8 +219,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 13,
-            "exp_total": 6400.932897919702
+            "level": 15,
+            "exp_total": 7441.334267966902
           },
           "rank": 12,
           "player_name": "ErenYeager",
@@ -775,7 +775,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 19,
-            "exp_total": 10392
+            "exp_total": 10456
           },
           "rank": 15,
           "player_name": "ErenYeager",
@@ -1425,8 +1425,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 19,
-            "exp_total": 10400
+            "level": 20,
+            "exp_total": 10720
           },
           "rank": 10,
           "player_name": "ErenYeager",
@@ -1738,6 +1738,16 @@
           "rank": 15,
           "player_name": "nunuem",
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 519.0236182579999
+          },
+          "rank": 16,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         }
       ],
       "profile": "HeavyArmorProfile",
@@ -1920,7 +1930,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 6,
-            "exp_total": 2616
+            "exp_total": 2646
           },
           "rank": 18,
           "player_name": "ErenYeager",
@@ -2101,11 +2111,20 @@
           "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
         {
-          "main_stat": 8300,
+          "main_stat": 8400,
           "extra_stats": {
             "level": 9
           },
           "rank": 14,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 8300,
+          "extra_stats": {
+            "level": 9
+          },
+          "rank": 15,
           "player_name": "Pencil2502",
           "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
         },
@@ -2114,18 +2133,9 @@
           "extra_stats": {
             "level": 9
           },
-          "rank": 15,
+          "rank": 16,
           "player_name": "Demon1",
           "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
-        },
-        {
-          "main_stat": 8000,
-          "extra_stats": {
-            "level": 8
-          },
-          "rank": 16,
-          "player_name": "ErenYeager",
-          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
           "main_stat": 5100,
@@ -2430,5 +2440,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759628654080
+  "timestamp": 1759633697432
 }
