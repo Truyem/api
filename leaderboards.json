@@ -170,7 +170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 50,
-            "exp_total": 99121.38889029525
+            "exp_total": 100078.85248523511
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -401,7 +401,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 37,
-            "exp_total": 38596.696004874146
+            "exp_total": 38655.496004874156
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -461,7 +461,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 6,
-            "exp_total": 2620.160004591944
+            "exp_total": 2868.160004591944
           },
           "rank": 10,
           "player_name": "ErenYeager",
@@ -527,8 +527,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 52,
-            "exp_total": 123652.52081003369
+            "level": 53,
+            "exp_total": 125307.58024392297
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -675,7 +675,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 82,
-            "exp_total": 1682332.480006144
+            "exp_total": 1683332.480006144
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -695,7 +695,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 70,
-            "exp_total": 555480.9122124104
+            "exp_total": 555774.9122124104
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -901,8 +901,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 57,
-            "exp_total": 187365.782343722
+            "level": 59,
+            "exp_total": 216684.9743357952
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -922,7 +922,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 40,
-            "exp_total": 47116.18050510855
+            "exp_total": 47862.27165292703
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -991,8 +991,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 9,
-            "exp_total": 3957.2530758483354
+            "level": 10,
+            "exp_total": 4424.535506598705
           },
           "rank": 13,
           "player_name": "ErenYeager",
@@ -1209,7 +1209,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 32,
-            "exp_total": 25280.400092389435
+            "exp_total": 25355.775092389435
           },
           "rank": 13,
           "player_name": "ErenYeager",
@@ -1436,7 +1436,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 25,
-            "exp_total": 15379.600001484156
+            "exp_total": 16379.600001484156
           },
           "rank": 10,
           "player_name": "ErenYeager",
@@ -1603,7 +1603,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 91,
-            "exp_total": 3771288.7061407752
+            "exp_total": 3772058.8777680253
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1632,8 +1632,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 62,
-            "exp_total": 285135.2420176251
+            "level": 63,
+            "exp_total": 300729.1372696669
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1643,7 +1643,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 52,
-            "exp_total": 118220.11914911908
+            "exp_total": 119219.88102214143
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -1889,10 +1889,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 13,
+            "exp_total": 6169.120022249222
+          },
+          "rank": 13,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 12,
             "exp_total": 5874
           },
-          "rank": 13,
+          "rank": 14,
           "player_name": "Lightning",
           "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
         },
@@ -1902,19 +1912,9 @@
             "level": 12,
             "exp_total": 5672
           },
-          "rank": 14,
+          "rank": 15,
           "player_name": "nunuem",
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 11,
-            "exp_total": 5259.120022249222
-          },
-          "rank": 15,
-          "player_name": "ErenYeager",
-          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
           "main_stat": 0,
@@ -2040,7 +2040,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 52800,
+          "main_stat": 52900,
           "extra_stats": {
             "level": 43
           },
@@ -2049,7 +2049,7 @@
           "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
-          "main_stat": 49900,
+          "main_stat": 50200,
           "extra_stats": {
             "level": 42
           },
@@ -2103,9 +2103,9 @@
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
         },
         {
-          "main_stat": 17200,
+          "main_stat": 17500,
           "extra_stats": {
-            "level": 17
+            "level": 18
           },
           "rank": 12,
           "player_name": "ErenYeager",
@@ -2450,5 +2450,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759659531457
+  "timestamp": 1759667839696
 }
