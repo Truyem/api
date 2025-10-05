@@ -72,8 +72,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 29,
-            "exp_total": 21141.2
+            "level": 33,
+            "exp_total": 27892.700000000004
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -170,7 +170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 49,
-            "exp_total": 90286.67774864755
+            "exp_total": 90452.7757326463
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -210,7 +210,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 22,
-            "exp_total": 12565.39308350103
+            "exp_total": 12745.566709914596
           },
           "rank": 11,
           "player_name": "ErenYeager",
@@ -695,7 +695,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 70,
-            "exp_total": 553495.4882030115
+            "exp_total": 553502.5442031166
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -775,7 +775,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 34,
-            "exp_total": 29994.560193335994
+            "exp_total": 30161.280193436127
           },
           "rank": 14,
           "player_name": "ErenYeager",
@@ -1169,7 +1169,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 43,
-            "exp_total": 56602
+            "exp_total": 58413.25002659857
           },
           "rank": 9,
           "player_name": "Tlywind",
@@ -1208,10 +1208,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 22,
+            "exp_total": 13305.250025331974
+          },
+          "rank": 13,
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 13,
             "exp_total": 6291.5
           },
-          "rank": 13,
+          "rank": 14,
           "player_name": "Pencil2502",
           "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
         },
@@ -1221,7 +1231,7 @@
             "level": 11,
             "exp_total": 4966
           },
-          "rank": 14,
+          "rank": 15,
           "player_name": "Demon1",
           "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
         },
@@ -1231,19 +1241,9 @@
             "level": 10,
             "exp_total": 4779.5
           },
-          "rank": 15,
+          "rank": 16,
           "player_name": "Toan",
           "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 10,
-            "exp_total": 4655.25
-          },
-          "rank": 16,
-          "player_name": "ErenYeager",
-          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
           "main_stat": 0,
@@ -1733,7 +1733,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 10,
-            "exp_total": 4605.2299480321
+            "exp_total": 4628.247490165215
           },
           "rank": 14,
           "player_name": "ErenYeager",
@@ -1799,8 +1799,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 56,
-            "exp_total": 172688.80000012412
+            "level": 57,
+            "exp_total": 178087.81602099485
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1939,8 +1939,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 6,
-            "exp_total": 2654.0000001192093
+            "level": 9,
+            "exp_total": 3987.920019996166
           },
           "rank": 18,
           "player_name": "ErenYeager",
@@ -2040,9 +2040,9 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 51400,
+          "main_stat": 51900,
           "extra_stats": {
-            "level": 42
+            "level": 43
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2112,22 +2112,22 @@
           "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
-          "main_stat": 14300,
+          "main_stat": 14900,
           "extra_stats": {
             "level": 15
           },
           "rank": 13,
-          "player_name": "keocondepzainhat",
-          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
-        },
-        {
-          "main_stat": 13400,
-          "extra_stats": {
-            "level": 14
-          },
-          "rank": 14,
           "player_name": "ErenYeager",
           "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+        },
+        {
+          "main_stat": 14300,
+          "extra_stats": {
+            "level": 15
+          },
+          "rank": 14,
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
         {
           "main_stat": 8300,
@@ -2450,5 +2450,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759645664680
+  "timestamp": 1759648638422
 }
