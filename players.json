@@ -1,5 +1,5 @@
 {
-  "total": 41,
+  "total": 42,
   "players": [
     {
       "money": 0,
@@ -70,6 +70,13 @@
       "isOnline": false,
       "uuid": "4af6ac86-e6d8-39aa-8677-4d7419f75658",
       "lastPlayed": 1758438850735
+    },
+    {
+      "money": 0,
+      "name": "shadow",
+      "isOnline": false,
+      "uuid": "55576363-a43c-36f6-b83b-ceac7eff7544",
+      "lastPlayed": 1759652395770
     },
     {
       "money": 0,
@@ -212,18 +219,18 @@
       "lastPlayed": 1759575295313
     },
     {
-      "money": 3615,
+      "money": 585,
       "name": "ErenYeager",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547",
-      "lastPlayed": 1759630815279
+      "lastPlayed": 1759652112543
     },
     {
-      "money": 40282,
+      "money": 39910,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1759602257970
+      "lastPlayed": 1759650682179
     },
     {
       "money": 1690,
@@ -277,9 +284,9 @@
     {
       "money": 0,
       "name": "Duoitoasenvang",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3",
-      "lastPlayed": 1759572191022
+      "lastPlayed": 1759651344623
     },
     {
       "money": 8171209.5,
@@ -289,5 +296,5 @@
       "lastPlayed": 1759626201833
     }
   ],
-  "timestamp": 1759648639261
+  "timestamp": 1759652593265
 }
