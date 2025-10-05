@@ -92,8 +92,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 1,
-            "exp_total": 758.0000000000001
+            "level": 4,
+            "exp_total": 1682
           },
           "rank": 7,
           "player_name": "ErenYeager",
@@ -411,7 +411,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 30,
-            "exp_total": 22328
+            "exp_total": 22368
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -518,7 +518,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 56,
-            "exp_total": 161184.10042161233
+            "exp_total": 161612.93960102327
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -892,7 +892,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 57,
-            "exp_total": 185206.04443746328
+            "exp_total": 185775.49377657395
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1229,7 +1229,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 10,
-            "exp_total": 4455.25
+            "exp_total": 4655.25
           },
           "rank": 16,
           "player_name": "ErenYeager",
@@ -1593,7 +1593,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 90,
-            "exp_total": 3261841.0689068097
+            "exp_total": 3262561.0689068097
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1623,7 +1623,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 281592.1407555943
+            "exp_total": 282575.06598875695
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1830,7 +1830,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 35,
-            "exp_total": 32504
+            "exp_total": 32544
           },
           "rank": 9,
           "player_name": "hungthi",
@@ -2119,7 +2119,7 @@
           "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
         },
         {
-          "main_stat": 7700,
+          "main_stat": 8000,
           "extra_stats": {
             "level": 8
           },
@@ -2430,5 +2430,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759619847818
+  "timestamp": 1759628654080
 }
