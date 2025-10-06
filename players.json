@@ -216,7 +216,7 @@
       "name": "D0k11",
       "isOnline": true,
       "uuid": "c7d3231c-6816-370a-bf50-aee9315f526a",
-      "lastPlayed": 1759730404979
+      "lastPlayed": 1759734976014
     },
     {
       "money": 570,
@@ -289,12 +289,12 @@
       "lastPlayed": 1759387654461
     },
     {
-      "money": 8024328.5,
+      "money": 8023328.5,
       "name": "hungthi",
       "isOnline": false,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1759732027322
+      "lastPlayed": 1759734257482
     }
   ],
-  "timestamp": 1759732326064
+  "timestamp": 1759735239903
 }
