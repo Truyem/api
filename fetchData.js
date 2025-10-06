@@ -2,7 +2,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 // Base URL của API server
-const BASE_URL = 'http://103.161.119.206:25087';
+const BASE_URL = 'http://103.161.119.114:19368';
 
 const endpoints = {
     health: '/api/health',
