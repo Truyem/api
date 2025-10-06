@@ -25,8 +25,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 25,
-            "exp_total": 16332.714776076133
+            "level": 28,
+            "exp_total": 20154.714776076133
           },
           "rank": 3,
           "player_name": "Tlywind",
@@ -160,7 +160,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 315422.7527922907
+            "exp_total": 317531.9263982641
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -190,7 +190,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 109131.19300497524
+            "exp_total": 109613.60248295838
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -441,7 +441,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 38,
-            "exp_total": 40436.63200850937
+            "exp_total": 40445.03200850937
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -578,7 +578,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 138397.45690247128
+            "exp_total": 138719.4151801512
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -755,7 +755,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 619947.3842912975
+            "exp_total": 626549.7842912878
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -952,7 +952,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 92,
-            "exp_total": 4070597.497856217
+            "exp_total": 4072984.7005406064
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -962,7 +962,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 85,
-            "exp_total": 2063680.0508387738
+            "exp_total": 2065531.662838774
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1259,7 +1259,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 45,
-            "exp_total": 70405.4575989021
+            "exp_total": 71035.4575989021
           },
           "rank": 8,
           "player_name": "Tlywind",
@@ -1496,7 +1496,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 52,
-            "exp_total": 122789.58000155837
+            "exp_total": 122884.08000155837
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1743,7 +1743,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 82,
-            "exp_total": 1609752.6624842263
+            "exp_total": 1610472.6624842263
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1773,7 +1773,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 135618.75747982602
+            "exp_total": 136128.93446586857
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -1930,7 +1930,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 244283.1203198546
+            "exp_total": 244640.1203198546
           },
           "rank": 3,
           "player_name": "Tlywind",
@@ -2200,7 +2200,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 57500,
+          "main_stat": 57900,
           "extra_stats": {
             "level": 46
           },
@@ -2615,8 +2615,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 17,
-            "exp_total": 9038.850363090849
+            "level": 18,
+            "exp_total": 9199.678627251005
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2648,5 +2648,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759767933420
+  "timestamp": 1759771095969
 }
