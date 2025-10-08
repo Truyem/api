@@ -2170,7 +2170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 6,
-            "exp_total": 2520
+            "exp_total": 2640
           },
           "rank": 21,
           "player_name": "Truyem789",
@@ -2728,5 +2728,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759940771264
+  "timestamp": 1759943889483
 }
