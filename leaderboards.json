@@ -170,7 +170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 59,
-            "exp_total": 208664.19372971007
+            "exp_total": 208772.1937313194
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -229,22 +229,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 25,
-            "exp_total": 15414.343710392204
+            "level": 28,
+            "exp_total": 19987.055965943528
           },
           "rank": 11,
-          "player_name": "ErenYeager",
-          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 24,
-            "exp_total": 14980.653988318676
+            "level": 25,
+            "exp_total": 15414.343710392204
           },
           "rank": 12,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
           "main_stat": 0,
@@ -461,7 +461,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 30,
-            "exp_total": 22525.600000321865
+            "exp_total": 22564.000000417233
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -481,7 +481,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 24,
-            "exp_total": 15066.453334085147
+            "exp_total": 15074.453334085147
           },
           "rank": 7,
           "player_name": "tuyen1312121",
@@ -500,8 +500,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 13,
-            "exp_total": 6464
+            "level": 14,
+            "exp_total": 6598.400000095367
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -578,7 +578,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 245985.30693918926
+            "exp_total": 248303.13574114893
           },
           "rank": 3,
           "player_name": "hungthi",
@@ -637,8 +637,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 16,
-            "exp_total": 7902.957217765317
+            "level": 19,
+            "exp_total": 10230.568111225863
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -707,10 +707,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 2,
+            "exp_total": 830.1102042562925
+          },
+          "rank": 16,
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 1,
             "exp_total": 574.9801550957573
           },
-          "rank": 16,
+          "rank": 17,
           "player_name": "ReapRory",
           "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
         }
@@ -1339,7 +1349,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 29,
-            "exp_total": 20857.000241860747
+            "exp_total": 21607.000241860747
           },
           "rank": 14,
           "player_name": "KaI_ToU",
@@ -1348,8 +1358,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 21,
-            "exp_total": 12332.000001192093
+            "level": 23,
+            "exp_total": 13532.000001192093
           },
           "rank": 15,
           "player_name": "tuyen1312121",
@@ -1803,7 +1813,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 67,
-            "exp_total": 409613.4788906128
+            "exp_total": 411100.3457683952
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1863,21 +1873,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 29,
-            "exp_total": 20482.784530426754
+            "exp_total": 21840.499180453466
           },
           "rank": 10,
-          "player_name": "baohoang",
-          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 28,
-            "exp_total": 19684.966215143457
+            "level": 29,
+            "exp_total": 20482.784530426754
           },
           "rank": 11,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+          "player_name": "baohoang",
+          "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
           "main_stat": 0,
@@ -1999,8 +2009,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 50,
-            "exp_total": 105814.80007192492
+            "level": 51,
+            "exp_total": 106294.80007907748
           },
           "rank": 5,
           "player_name": "KaI_ToU",
@@ -2030,7 +2040,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 40,
-            "exp_total": 46625.826802592615
+            "exp_total": 47305.82680974517
           },
           "rank": 8,
           "player_name": "hungthi",
@@ -2040,7 +2050,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 40,
-            "exp_total": 46438.00000047684
+            "exp_total": 46448.00000047684
           },
           "rank": 9,
           "player_name": "tuyen1312121",
@@ -2277,22 +2287,22 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
+          "main_stat": 26200,
+          "extra_stats": {
+            "level": 25
+          },
+          "rank": 8,
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+        },
+        {
           "main_stat": 25800,
           "extra_stats": {
             "level": 24
           },
-          "rank": 8,
+          "rank": 9,
           "player_name": "NamDuyGaming",
           "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
-        },
-        {
-          "main_stat": 25100,
-          "extra_stats": {
-            "level": 24
-          },
-          "rank": 9,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
           "main_stat": 24100,
@@ -2322,7 +2332,7 @@
           "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
         },
         {
-          "main_stat": 20500,
+          "main_stat": 20800,
           "extra_stats": {
             "level": 20
           },
@@ -2519,7 +2529,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 18,
-            "exp_total": 9440.755802149048
+            "exp_total": 9824.859732641944
           },
           "rank": 8,
           "player_name": "tuyen1312121",
@@ -2528,8 +2538,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 13,
-            "exp_total": 6152.977011393119
+            "level": 14,
+            "exp_total": 6921.473376754917
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -2718,5 +2728,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1759922221866
+  "timestamp": 1759927381889
 }
