@@ -23,9 +23,9 @@
       "lastPlayed": 1758570291956
     },
     {
-      "money": 3199903702411,
+      "money": 3199903041001,
       "name": "ZioOnly043",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
       "lastPlayed": 1759895238009
     },
@@ -142,9 +142,9 @@
       "lastPlayed": 1758296816922
     },
     {
-      "money": 205441,
+      "money": 246441,
       "name": "noobthichet",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c3837209-9629-3134-a93c-b74ec28f0eee",
       "lastPlayed": 1759565866420
     },
@@ -209,7 +209,7 @@
       "name": "Truyem789",
       "isOnline": false,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1759895840501
+      "lastPlayed": 1759900748515
     },
     {
       "money": 40,
@@ -237,7 +237,7 @@
       "name": "KaI_ToU",
       "isOnline": false,
       "uuid": "8568f822-9540-389c-bf27-e57ccae7f976",
-      "lastPlayed": 1759849889888
+      "lastPlayed": 1759899430671
     },
     {
       "money": 570,
@@ -317,5 +317,5 @@
       "lastPlayed": 1759849392307
     }
   ],
-  "timestamp": 1759897449361
+  "timestamp": 1759900798651
 }
