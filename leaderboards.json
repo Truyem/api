@@ -865,7 +865,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 39,
-            "exp_total": 42425.08007875386
+            "exp_total": 42693.08007875386
           },
           "rank": 13,
           "player_name": "KaI_ToU",
@@ -1081,22 +1081,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 23,
-            "exp_total": 13873.604863036351
+            "level": 24,
+            "exp_total": 14989.245094824319
           },
           "rank": 10,
-          "player_name": "nunuem",
-          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 20,
-            "exp_total": 10728.198447035198
+            "level": 23,
+            "exp_total": 13873.604863036351
           },
           "rank": 11,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+          "player_name": "nunuem",
+          "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
         },
         {
           "main_stat": 0,
@@ -1862,22 +1862,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 34,
-            "exp_total": 30247.35054103593
+            "level": 36,
+            "exp_total": 33924.91637730916
           },
           "rank": 8,
-          "player_name": "keocondepzainhat",
-          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 33,
-            "exp_total": 28093.638292511707
+            "level": 34,
+            "exp_total": 30247.35054103593
           },
           "rank": 9,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+          "player_name": "keocondepzainhat",
+          "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
         {
           "main_stat": 0,
@@ -2000,7 +2000,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 258808.00009861588
+            "exp_total": 259098.00009861588
           },
           "rank": 3,
           "player_name": "KaI_ToU",
@@ -2297,9 +2297,9 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 33000,
+          "main_stat": 34300,
           "extra_stats": {
-            "level": 30
+            "level": 31
           },
           "rank": 8,
           "player_name": "KaI_ToU",
@@ -2549,7 +2549,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 18,
-            "exp_total": 9305.000270396562
+            "exp_total": 9511.910267800184
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -2705,8 +2705,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 2,
-            "exp_total": 968.6703659319356
+            "level": 8,
+            "exp_total": 3806.4711884319363
           },
           "rank": 7,
           "player_name": "KaI_ToU",
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760016684590
+  "timestamp": 1760019638624
 }
