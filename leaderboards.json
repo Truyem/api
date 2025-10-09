@@ -648,7 +648,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 22,
-            "exp_total": 12493.237636612042
+            "exp_total": 12839.877423803035
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -865,7 +865,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 39,
-            "exp_total": 42401.08007875386
+            "exp_total": 42425.08007875386
           },
           "rank": 13,
           "player_name": "KaI_ToU",
@@ -1873,7 +1873,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 33,
-            "exp_total": 27101.548326376207
+            "exp_total": 28093.638292511707
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -2000,7 +2000,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 254922.00009861588
+            "exp_total": 258808.00009861588
           },
           "rank": 3,
           "player_name": "KaI_ToU",
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760013797407
+  "timestamp": 1760016684590
 }
