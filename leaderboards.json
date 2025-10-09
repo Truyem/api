@@ -129,8 +129,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 73,
-            "exp_total": 743887.6640170392
+            "level": 74,
+            "exp_total": 818059.9243718485
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -568,7 +568,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 657501.7831978843
+            "exp_total": 658084.3207782061
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -745,7 +745,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16509857.59999796
+            "exp_total": 16509883.999997959
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -991,8 +991,8 @@
         {
           "main_stat": 1,
           "extra_stats": {
-            "level": 26,
-            "exp_total": 7928326.089874275
+            "level": 74,
+            "exp_total": 8717030.322475655
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1793,7 +1793,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 8113286.645084884
+            "exp_total": 8117054.645084884
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2234,22 +2234,22 @@
     {
       "entries": [
         {
+          "main_stat": 125400,
+          "extra_stats": {
+            "level": 81
+          },
+          "rank": 1,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
           "main_stat": 122200,
           "extra_stats": {
             "level": 79
           },
-          "rank": 1,
+          "rank": 2,
           "player_name": "noobthichet",
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
-        },
-        {
-          "main_stat": 120500,
-          "extra_stats": {
-            "level": 79
-          },
-          "rank": 2,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 94000,
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760023830239
+  "timestamp": 1760027286659
 }
