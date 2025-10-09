@@ -129,22 +129,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 72,
-            "exp_total": 683657.9357640967
+            "level": 73,
+            "exp_total": 743887.6640170392
           },
           "rank": 1,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 635619.6331247926
+            "exp_total": 683657.9357640967
           },
           "rank": 2,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
@@ -403,10 +403,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 7,
+            "exp_total": 3300.6000000000004
+          },
+          "rank": 5,
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 4,
             "exp_total": 1800
           },
-          "rank": 5,
+          "rank": 6,
           "player_name": "D0k11",
           "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         }
@@ -558,7 +568,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 651256.4736232292
+            "exp_total": 657501.7831978843
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -735,7 +745,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16504784.39999797
+            "exp_total": 16509857.59999796
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -981,8 +991,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 94,
-            "exp_total": 4743689.449460461
+            "level": 100,
+            "exp_total": 7902098.914519673
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1358,8 +1368,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 29,
-            "exp_total": 21383.000001192093
+            "level": 30,
+            "exp_total": 21983.000001192093
           },
           "rank": 15,
           "player_name": "tuyen1312121",
@@ -1990,9 +2000,19 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 247890.92031985425
+            "exp_total": 254922.00009861588
           },
           "rank": 3,
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 61,
+            "exp_total": 247890.92031985425
+          },
+          "rank": 4,
           "player_name": "Tlywind",
           "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
@@ -2000,17 +2020,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 60,
-            "exp_total": 242308.00009861588
-          },
-          "rank": 4,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 60,
-            "exp_total": 234034.39999999985
+            "exp_total": 234095.99999999985
           },
           "rank": 5,
           "player_name": "ZioOnly043",
@@ -2019,8 +2029,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 52,
-            "exp_total": 116018.00000047684
+            "level": 54,
+            "exp_total": 137570.00000047684
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -2233,9 +2243,9 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 117200,
+          "main_stat": 117900,
           "extra_stats": {
-            "level": 77
+            "level": 78
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -2287,9 +2297,9 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 32200,
+          "main_stat": 33000,
           "extra_stats": {
-            "level": 29
+            "level": 30
           },
           "rank": 8,
           "player_name": "KaI_ToU",
@@ -2305,7 +2315,7 @@
           "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
         },
         {
-          "main_stat": 25200,
+          "main_stat": 25500,
           "extra_stats": {
             "level": 24
           },
@@ -2459,7 +2469,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 73583.61005329915
+            "exp_total": 76186.77790057693
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2728,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760008649061
+  "timestamp": 1760013797407
 }
