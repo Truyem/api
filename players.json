@@ -23,11 +23,11 @@
       "lastPlayed": 1758570291956
     },
     {
-      "money": 5699893389211,
+      "money": 5699893349391,
       "name": "ZioOnly043",
       "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760085492150
+      "lastPlayed": 1760104189369
     },
     {
       "money": 0,
@@ -317,5 +317,5 @@
       "lastPlayed": 1759933160759
     }
   ],
-  "timestamp": 1760102970955
+  "timestamp": 1760106000908
 }
