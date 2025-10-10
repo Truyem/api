@@ -451,7 +451,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 53,
-            "exp_total": 131033.19999999012
+            "exp_total": 134076.39999999193
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -568,7 +568,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 658084.3207782061
+            "exp_total": 662344.8088989918
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -745,7 +745,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16509895.849997958
+            "exp_total": 16511287.849997986
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -992,7 +992,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 80,
-            "exp_total": 9295324.141871568
+            "exp_total": 9316216.212757217
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1793,7 +1793,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 9065866.79757735
+            "exp_total": 9083789.09067489
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2019,8 +2019,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 60,
-            "exp_total": 235395.19999999987
+            "level": 61,
+            "exp_total": 246231.19999999987
           },
           "rank": 5,
           "player_name": "ZioOnly043",
@@ -2234,7 +2234,7 @@
     {
       "entries": [
         {
-          "main_stat": 126100,
+          "main_stat": 126200,
           "extra_stats": {
             "level": 81
           },
@@ -2469,7 +2469,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 76315.47875811631
+            "exp_total": 76331.92175783629
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760077895029
+  "timestamp": 1760080800452
 }
