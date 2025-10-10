@@ -240,21 +240,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 25,
-            "exp_total": 15414.343710392204
+            "exp_total": 15829.80837416479
           },
           "rank": 12,
-          "player_name": "ErenYeager",
-          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 24,
-            "exp_total": 15234.742171522212
+            "level": 25,
+            "exp_total": 15414.343710392204
           },
           "rank": 13,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+          "player_name": "ErenYeager",
+          "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
         {
           "main_stat": 0,
@@ -864,10 +864,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 41,
+            "exp_total": 49926.28001538217
+          },
+          "rank": 13,
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 39,
             "exp_total": 42693.08007875386
           },
-          "rank": 13,
+          "rank": 14,
           "player_name": "KaI_ToU",
           "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
@@ -877,7 +887,7 @@
             "level": 39,
             "exp_total": 42028
           },
-          "rank": 14,
+          "rank": 15,
           "player_name": "khanhlinhZZ201",
           "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
         },
@@ -887,7 +897,7 @@
             "level": 34,
             "exp_total": 30793.68019630311
           },
-          "rank": 15,
+          "rank": 16,
           "player_name": "ErenYeager",
           "player_uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547"
         },
@@ -897,19 +907,9 @@
             "level": 22,
             "exp_total": 12580
           },
-          "rank": 16,
+          "rank": 17,
           "player_name": "Demon1",
           "player_uuid": "737db28f-73a0-3551-8d08-ac6c46de5cf7"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 21,
-            "exp_total": 12134.280015382174
-          },
-          "rank": 17,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
@@ -1061,8 +1061,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 35,
-            "exp_total": 32465.969425589596
+            "level": 36,
+            "exp_total": 33626.9410011028
           },
           "rank": 8,
           "player_name": "tuyen1312121",
@@ -2030,7 +2030,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 138418.00000047684
+            "exp_total": 138818.00000047684
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -2306,22 +2306,22 @@
           "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
+          "main_stat": 27900,
+          "extra_stats": {
+            "level": 26
+          },
+          "rank": 9,
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+        },
+        {
           "main_stat": 25800,
           "extra_stats": {
             "level": 24
           },
-          "rank": 9,
+          "rank": 10,
           "player_name": "NamDuyGaming",
           "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
-        },
-        {
-          "main_stat": 25700,
-          "extra_stats": {
-            "level": 24
-          },
-          "rank": 10,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 24100,
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760091720746
+  "timestamp": 1760095075722
 }
