@@ -219,22 +219,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 32,
-            "exp_total": 25926.40243115609
+            "level": 33,
+            "exp_total": 27668.74353258973
           },
           "rank": 10,
-          "player_name": "khanhlinhZZ201",
-          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 32,
-            "exp_total": 25635.44599317723
+            "exp_total": 25926.40243115609
           },
           "rank": 11,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+          "player_name": "khanhlinhZZ201",
+          "player_uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a"
         },
         {
           "main_stat": 0,
@@ -1051,8 +1051,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 39,
-            "exp_total": 44505.20805879116
+            "level": 40,
+            "exp_total": 46972.878478935745
           },
           "rank": 7,
           "player_name": "tuyen1312121",
@@ -1289,21 +1289,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 73631.75
+            "exp_total": 74883.0000011921
           },
           "rank": 7,
-          "player_name": "Saito",
-          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 73083.0000011921
+            "exp_total": 73631.75
           },
           "rank": 8,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
         },
         {
           "main_stat": 0,
@@ -1793,7 +1793,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 9123339.766770562
+            "exp_total": 9124419.766770562
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2030,7 +2030,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 55,
-            "exp_total": 155398.00000298023
+            "exp_total": 156368.00000298023
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -2306,7 +2306,7 @@
           "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
-          "main_stat": 31900,
+          "main_stat": 32100,
           "extra_stats": {
             "level": 29
           },
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760145981736
+  "timestamp": 1760151252190
 }
