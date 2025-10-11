@@ -199,8 +199,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 44,
-            "exp_total": 65237.78738771223
+            "level": 47,
+            "exp_total": 79888.80018418391
           },
           "rank": 8,
           "player_name": "tuyen1312121",
@@ -511,7 +511,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 25,
-            "exp_total": 15396.533334235352
+            "exp_total": 15588.533334235352
           },
           "rank": 7,
           "player_name": "tuyen1312121",
@@ -804,8 +804,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 81,
-            "exp_total": 1441056.3600555859
+            "level": 84,
+            "exp_total": 1856314.3600555859
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -1052,7 +1052,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 53,
-            "exp_total": 126203.20514403742
+            "exp_total": 133370.89136548853
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -1823,7 +1823,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 9187167.536262289
+            "exp_total": 9187527.536262289
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2060,7 +2060,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 56,
-            "exp_total": 165970.00001597404
+            "exp_total": 167162.00001597404
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -2318,9 +2318,9 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 40200,
+          "main_stat": 40800,
           "extra_stats": {
-            "level": 35
+            "level": 36
           },
           "rank": 7,
           "player_name": "tuyen1312121",
@@ -2768,5 +2768,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760181316393
+  "timestamp": 1760186217160
 }

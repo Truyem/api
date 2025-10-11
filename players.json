@@ -1,5 +1,5 @@
 {
-  "total": 46,
+  "total": 47,
   "players": [
     {
       "money": 0,
@@ -25,9 +25,9 @@
     {
       "money": 5699891709039,
       "name": "ZioOnly043",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760174440065
+      "lastPlayed": 1760185915077
     },
     {
       "money": 0,
@@ -37,11 +37,11 @@
       "lastPlayed": 1759320685293
     },
     {
-      "money": 4267,
+      "money": 2267,
       "name": "tuyen1312121",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1760179002992
+      "lastPlayed": 1760185539993
     },
     {
       "money": 0,
@@ -212,6 +212,13 @@
       "lastPlayed": 1760129292168
     },
     {
+      "money": 0,
+      "name": "Tralaleo",
+      "isOnline": true,
+      "uuid": "fa296c27-4443-30b7-bd25-8acd93183e88",
+      "lastPlayed": 0
+    },
+    {
       "money": 40,
       "name": "longthach",
       "isOnline": false,
@@ -235,9 +242,9 @@
     {
       "money": 6688,
       "name": "KaI_ToU",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "8568f822-9540-389c-bf27-e57ccae7f976",
-      "lastPlayed": 1760171870381
+      "lastPlayed": 1760185977218
     },
     {
       "money": 570,
@@ -256,9 +263,9 @@
     {
       "money": 35512.399999999994,
       "name": "Tlywind",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1760116552743
+      "lastPlayed": 1760186173753
     },
     {
       "money": 0,
@@ -324,5 +331,5 @@
       "lastPlayed": 1760175503102
     }
   ],
-  "timestamp": 1760181317496
+  "timestamp": 1760186218575
 }
