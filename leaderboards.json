@@ -209,8 +209,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 34,
-            "exp_total": 31004.20135191038
+            "level": 35,
+            "exp_total": 31459.71127191038
           },
           "rank": 9,
           "player_name": "tuyen1312121",
@@ -745,7 +745,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16512411.049997982
+            "exp_total": 16512646.249997977
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -784,10 +784,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 75,
+            "exp_total": 851825.9600320063
+          },
+          "rank": 5,
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 74,
             "exp_total": 773274.499999977
           },
-          "rank": 5,
+          "rank": 6,
           "player_name": "Quoclam277",
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
@@ -797,7 +807,7 @@
             "level": 72,
             "exp_total": 646850.5683085843
           },
-          "rank": 6,
+          "rank": 7,
           "player_name": "Tlywind",
           "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
@@ -807,7 +817,7 @@
             "level": 55,
             "exp_total": 153256
           },
-          "rank": 7,
+          "rank": 8,
           "player_name": "Saito",
           "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
         },
@@ -817,19 +827,9 @@
             "level": 53,
             "exp_total": 134624
           },
-          "rank": 8,
+          "rank": 9,
           "player_name": "NamDuyGaming",
           "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 53,
-            "exp_total": 134228.3600318632
-          },
-          "rank": 9,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
@@ -875,7 +875,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 39,
-            "exp_total": 42693.08007875386
+            "exp_total": 43398.68007889691
           },
           "rank": 14,
           "player_name": "KaI_ToU",
@@ -992,7 +992,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 81,
-            "exp_total": 9381429.927571239
+            "exp_total": 9383416.40999424
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1042,21 +1042,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 41,
-            "exp_total": 49183.662206151
+            "exp_total": 49373.83719461968
           },
           "rank": 6,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 41,
-            "exp_total": 48875.12104839184
+            "exp_total": 49183.662206151
           },
           "rank": 7,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
@@ -1081,8 +1081,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 24,
-            "exp_total": 14989.245094824319
+            "level": 25,
+            "exp_total": 16226.113646929269
           },
           "rank": 10,
           "player_name": "KaI_ToU",
@@ -1793,7 +1793,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 9130688.812461723
+            "exp_total": 9137601.78624643
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1863,7 +1863,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 36,
-            "exp_total": 33924.91637730916
+            "exp_total": 35071.883034589155
           },
           "rank": 8,
           "player_name": "KaI_ToU",
@@ -2000,7 +2000,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 259098.00009861588
+            "exp_total": 260268.00009861588
           },
           "rank": 3,
           "player_name": "KaI_ToU",
@@ -2297,22 +2297,22 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 34300,
+          "main_stat": 34700,
           "extra_stats": {
             "level": 31
           },
           "rank": 8,
-          "player_name": "KaI_ToU",
-          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
-        },
-        {
-          "main_stat": 32400,
-          "extra_stats": {
-            "level": 30
-          },
-          "rank": 9,
           "player_name": "tuyen1312121",
           "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+        },
+        {
+          "main_stat": 34500,
+          "extra_stats": {
+            "level": 31
+          },
+          "rank": 9,
+          "player_name": "KaI_ToU",
+          "player_uuid": "8568f822-9540-389c-bf27-e57ccae7f976"
         },
         {
           "main_stat": 25800,
@@ -2548,8 +2548,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 18,
-            "exp_total": 9511.910267800184
+            "level": 19,
+            "exp_total": 10546.916289198492
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -2738,5 +2738,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760153253119
+  "timestamp": 1760156578945
 }
