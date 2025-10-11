@@ -200,7 +200,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 113460.08490086663
+            "exp_total": 114614.30713920227
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -239,8 +239,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 34,
-            "exp_total": 30910.032878537444
+            "level": 35,
+            "exp_total": 31765.032878537444
           },
           "rank": 10,
           "player_name": "KaI_ToU",
@@ -403,10 +403,20 @@
         {
           "main_stat": 0,
           "extra_stats": {
+            "level": 50,
+            "exp_total": 98533.15200000006
+          },
+          "rank": 3,
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
             "level": 38,
             "exp_total": 40252.872
           },
-          "rank": 3,
+          "rank": 4,
           "player_name": "Quoclam277",
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
@@ -416,7 +426,7 @@
             "level": 20,
             "exp_total": 11078.367223355292
           },
-          "rank": 4,
+          "rank": 5,
           "player_name": "tuyen1312121",
           "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
@@ -426,7 +436,7 @@
             "level": 17,
             "exp_total": 9120.240000000002
           },
-          "rank": 5,
+          "rank": 6,
           "player_name": "ReapRory",
           "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
         },
@@ -436,19 +446,9 @@
             "level": 14,
             "exp_total": 7924.3105180814255
           },
-          "rank": 6,
+          "rank": 7,
           "player_name": "hungthi",
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 15,
-            "exp_total": 7560
-          },
-          "rank": 7,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
@@ -521,7 +521,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 109565.33341423668
+            "exp_total": 109581.33341423668
           },
           "rank": 4,
           "player_name": "KaI_ToU",
@@ -531,7 +531,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 38,
-            "exp_total": 40816.81600866714
+            "exp_total": 40875.61600866715
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -638,7 +638,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 63,
-            "exp_total": 295076.54851379746
+            "exp_total": 299927.7428317936
           },
           "rank": 2,
           "player_name": "hungthi",
@@ -708,7 +708,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 25,
-            "exp_total": 15860.8011922258
+            "exp_total": 16445.66248665306
           },
           "rank": 9,
           "player_name": "KaI_ToU",
@@ -835,7 +835,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 87,
-            "exp_total": 2638496.2267074944
+            "exp_total": 2639004.2267074944
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -865,7 +865,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 668170.3563460448
+            "exp_total": 674491.3563460358
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -875,7 +875,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 337918.81351621245
+            "exp_total": 338044.81351621245
           },
           "rank": 8,
           "player_name": "KaI_ToU",
@@ -1082,7 +1082,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 342293.19850860233
+            "exp_total": 343196.80880080693
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1359,21 +1359,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 73631.75
+            "exp_total": 73807.45762143265
           },
           "rank": 8,
-          "player_name": "Saito",
-          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 46,
-            "exp_total": 72547.45762143265
+            "exp_total": 73631.75
           },
           "rank": 9,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "Saito",
+          "player_uuid": "2ae238c6-2c96-3451-b0fc-18fd3e7d7ae8"
         },
         {
           "main_stat": 0,
@@ -1873,7 +1873,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 9199614.099327972
+            "exp_total": 9202134.099327972
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1903,7 +1903,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 68,
-            "exp_total": 459246.34992826084
+            "exp_total": 466922.6348971192
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -1913,7 +1913,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 146173.2189792108
+            "exp_total": 146940.51763020424
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -1933,7 +1933,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 45,
-            "exp_total": 70657.90788459439
+            "exp_total": 70828.57455380418
           },
           "rank": 7,
           "player_name": "KaI_ToU",
@@ -2080,7 +2080,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 319294.00011637807
+            "exp_total": 333448.24032073625
           },
           "rank": 3,
           "player_name": "KaI_ToU",
@@ -2090,21 +2090,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 255015.19999999987
+            "exp_total": 265457.4765545502
           },
           "rank": 4,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 61,
-            "exp_total": 249653.80032859952
+            "exp_total": 255015.19999999987
           },
           "rank": 5,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 0,
@@ -2140,7 +2140,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 42,
-            "exp_total": 55356.36017163707
+            "exp_total": 56004.160181290026
           },
           "rank": 9,
           "player_name": "hungthi",
@@ -2259,8 +2259,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 6,
-            "exp_total": 2640
+            "level": 8,
+            "exp_total": 3722
           },
           "rank": 21,
           "player_name": "Truyem789",
@@ -2324,9 +2324,9 @@
     {
       "entries": [
         {
-          "main_stat": 128200,
+          "main_stat": 131700,
           "extra_stats": {
-            "level": 82
+            "level": 84
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2360,7 +2360,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 60400,
+          "main_stat": 60600,
           "extra_stats": {
             "level": 48
           },
@@ -2369,7 +2369,7 @@
           "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
-          "main_stat": 56500,
+          "main_stat": 56600,
           "extra_stats": {
             "level": 46
           },
@@ -2378,7 +2378,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 45800,
+          "main_stat": 45900,
           "extra_stats": {
             "level": 39
           },
@@ -2540,7 +2540,7 @@
           "player_uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905"
         },
         {
-          "main_stat": 600,
+          "main_stat": 800,
           "extra_stats": {
             "level": 0
           },
@@ -2619,7 +2619,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 20,
-            "exp_total": 11268.330046834735
+            "exp_total": 11279.764547005123
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -2629,7 +2629,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 20,
-            "exp_total": 11097.93367023837
+            "exp_total": 11108.823670400643
           },
           "rank": 8,
           "player_name": "KaI_ToU",
@@ -2648,8 +2648,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 15,
-            "exp_total": 7711.930685830661
+            "level": 16,
+            "exp_total": 7863.972746288426
           },
           "rank": 10,
           "player_name": "hungthi",
@@ -2775,8 +2775,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 18,
-            "exp_total": 9220.936859509316
+            "level": 20,
+            "exp_total": 10735.688222544753
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2828,5 +2828,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760199707179
+  "timestamp": 1760202918169
 }
