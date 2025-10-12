@@ -1,5 +1,5 @@
 {
-  "total": 47,
+  "total": 48,
   "players": [
     {
       "money": 0,
@@ -25,9 +25,9 @@
     {
       "money": 5699891027027,
       "name": "ZioOnly043",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760245308499
+      "lastPlayed": 1760248672015
     },
     {
       "money": 0,
@@ -37,11 +37,11 @@
       "lastPlayed": 1759320685293
     },
     {
-      "money": 5327,
+      "money": 1327,
       "name": "tuyen1312121",
       "isOnline": true,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1760238685717
+      "lastPlayed": 1760248811035
     },
     {
       "money": 0,
@@ -142,11 +142,11 @@
       "lastPlayed": 1758296816922
     },
     {
-      "money": 612769,
+      "money": 583769,
       "name": "noobthichet",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "c3837209-9629-3134-a93c-b74ec28f0eee",
-      "lastPlayed": 1760196117004
+      "lastPlayed": 1760248811017
     },
     {
       "money": 0,
@@ -209,14 +209,14 @@
       "name": "Truyem789",
       "isOnline": false,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1760244690981
+      "lastPlayed": 1760248196918
     },
     {
       "money": 462,
       "name": "Tralaleo",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "fa296c27-4443-30b7-bd25-8acd93183e88",
-      "lastPlayed": 1760234480082
+      "lastPlayed": 1760248801391
     },
     {
       "money": 40,
@@ -240,18 +240,18 @@
       "lastPlayed": 1759759348994
     },
     {
-      "money": 19109,
+      "money": 12709,
       "name": "KaI_ToU",
       "isOnline": true,
       "uuid": "8568f822-9540-389c-bf27-e57ccae7f976",
-      "lastPlayed": 1760201027012
+      "lastPlayed": 1760249017191
     },
     {
       "money": 6642,
       "name": "ErenYeager",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "fe72f8c0-ec24-3125-867f-f9caf756d547",
-      "lastPlayed": 1760236273874
+      "lastPlayed": 1760247083691
     },
     {
       "money": 1690,
@@ -261,11 +261,11 @@
       "lastPlayed": 1759634392880
     },
     {
-      "money": 15053.4,
+      "money": 15067.4,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1760246072236
+      "lastPlayed": 1760250308472
     },
     {
       "money": 0,
@@ -324,12 +324,19 @@
       "lastPlayed": 1760029019776
     },
     {
-      "money": 7835156.5,
+      "money": 7825146.5,
       "name": "hungthi",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1760237483789
+      "lastPlayed": 1760249117184
+    },
+    {
+      "money": 0,
+      "name": "thuanfaf",
+      "isOnline": false,
+      "uuid": "e6b0f915-c752-32ce-9480-ab82d27ef5e7",
+      "lastPlayed": 1760248649116
     }
   ],
-  "timestamp": 1760246317702
+  "timestamp": 1760250468812
 }
