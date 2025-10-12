@@ -23,11 +23,11 @@
       "lastPlayed": 1758570291956
     },
     {
-      "money": 8199891027027,
+      "money": 8199891022027,
       "name": "ZioOnly043",
       "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760252582127
+      "lastPlayed": 1760255947622
     },
     {
       "money": 0,
@@ -39,9 +39,9 @@
     {
       "money": 1327,
       "name": "tuyen1312121",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1760252582173
+      "lastPlayed": 1760255758983
     },
     {
       "money": 0,
@@ -142,11 +142,11 @@
       "lastPlayed": 1758296816922
     },
     {
-      "money": 357549,
+      "money": 357519,
       "name": "noobthichet",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "c3837209-9629-3134-a93c-b74ec28f0eee",
-      "lastPlayed": 1760253457582
+      "lastPlayed": 1760253776716
     },
     {
       "money": 0,
@@ -212,11 +212,11 @@
       "lastPlayed": 1760248196918
     },
     {
-      "money": 412,
+      "money": 34,
       "name": "Tralaleo",
       "isOnline": true,
       "uuid": "fa296c27-4443-30b7-bd25-8acd93183e88",
-      "lastPlayed": 1760252582282
+      "lastPlayed": 1760254319335
     },
     {
       "money": 40,
@@ -242,9 +242,9 @@
     {
       "money": 12709,
       "name": "KaI_ToU",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "8568f822-9540-389c-bf27-e57ccae7f976",
-      "lastPlayed": 1760252582297
+      "lastPlayed": 1760255636029
     },
     {
       "money": 6642,
@@ -261,11 +261,11 @@
       "lastPlayed": 1759634392880
     },
     {
-      "money": 8584.4,
+      "money": 4430.4,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1760252582201
+      "lastPlayed": 1760254901972
     },
     {
       "money": 0,
@@ -338,5 +338,5 @@
       "lastPlayed": 1760248649116
     }
   ],
-  "timestamp": 1760253464676
+  "timestamp": 1760257434140
 }
