@@ -491,7 +491,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 94,
-            "exp_total": 4792105.8400818
+            "exp_total": 4792163.4400818
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -815,7 +815,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 11320535.324098235
+            "exp_total": 11326285.724098245
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1071,8 +1071,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 76,
-            "exp_total": 980851.2387177414
+            "level": 77,
+            "exp_total": 998767.399014742
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1912,8 +1912,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 80,
-            "exp_total": 1401324.7180456717
+            "level": 81,
+            "exp_total": 1443419.5431743343
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -2100,7 +2100,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 81,
-            "exp_total": 1427355.6200020995
+            "exp_total": 1428795.6200020995
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -2373,9 +2373,9 @@
           "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
-          "main_stat": 128900,
+          "main_stat": 129300,
           "extra_stats": {
-            "level": 82
+            "level": 83
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -2607,7 +2607,7 @@
         {
           "main_stat": 1,
           "extra_stats": {
-            "level": 5,
+            "level": 7,
             "exp_total": 1.1041481583726986e+40
           },
           "rank": 1,
@@ -2887,5 +2887,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760293595950
+  "timestamp": 1760296479307
 }
