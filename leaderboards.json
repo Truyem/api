@@ -815,7 +815,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 11326285.724098245
+            "exp_total": 11328248.924098248
           },
           "rank": 2,
           "player_name": "noobthichet",
@@ -1072,7 +1072,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 77,
-            "exp_total": 998767.399014742
+            "exp_total": 1039023.9725162273
           },
           "rank": 3,
           "player_name": "noobthichet",
@@ -1903,21 +1903,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 83,
-            "exp_total": 1801218.008745771
+            "exp_total": 1841731.7539259293
           },
           "rank": 2,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "noobthichet",
+          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 81,
-            "exp_total": 1443419.5431743343
+            "level": 83,
+            "exp_total": 1801218.008745771
           },
           "rank": 3,
-          "player_name": "noobthichet",
-          "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 0,
@@ -2100,7 +2100,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 81,
-            "exp_total": 1428795.6200020995
+            "exp_total": 1430475.6200020995
           },
           "rank": 1,
           "player_name": "noobthichet",
@@ -2373,7 +2373,7 @@
           "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
-          "main_stat": 129300,
+          "main_stat": 129900,
           "extra_stats": {
             "level": 83
           },
@@ -2607,7 +2607,7 @@
         {
           "main_stat": 1,
           "extra_stats": {
-            "level": 7,
+            "level": 11,
             "exp_total": 1.1041481583726986e+40
           },
           "rank": 1,
@@ -2887,5 +2887,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760296479307
+  "timestamp": 1760300437238
 }
