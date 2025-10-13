@@ -261,11 +261,11 @@
       "lastPlayed": 1759634392880
     },
     {
-      "money": 62293.399999999994,
+      "money": 62079.399999999994,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1760367122787
+      "lastPlayed": 1760378404383
     },
     {
       "money": 0,
@@ -338,5 +338,5 @@
       "lastPlayed": 1760248649116
     }
   ],
-  "timestamp": 1760375871033
+  "timestamp": 1760380131673
 }
