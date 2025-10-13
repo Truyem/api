@@ -200,7 +200,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 56,
-            "exp_total": 165674.61347939368
+            "exp_total": 169544.99475452496
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -638,7 +638,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 390542.8425541039
+            "exp_total": 392327.8270326356
           },
           "rank": 2,
           "player_name": "hungthi",
@@ -845,7 +845,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 86,
-            "exp_total": 2333400.7070241263
+            "exp_total": 2333688.7070241263
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -1092,7 +1092,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 60,
-            "exp_total": 238391.65525728374
+            "exp_total": 242078.29876423985
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -1349,7 +1349,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 286152.2004492879
+            "exp_total": 287112.200463593
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -1358,8 +1358,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 60,
-            "exp_total": 238312.46694545943
+            "level": 61,
+            "exp_total": 245272.46695976454
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -1923,7 +1923,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 70,
-            "exp_total": 551095.9219605753
+            "exp_total": 555828.7288142828
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -2418,7 +2418,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 55200,
+          "main_stat": 55300,
           "extra_stats": {
             "level": 45
           },
@@ -2887,5 +2887,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760311063387
+  "timestamp": 1760319820805
 }
