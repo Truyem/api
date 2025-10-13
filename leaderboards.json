@@ -210,7 +210,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 56,
-            "exp_total": 164310.21686594645
+            "exp_total": 164444.76794548926
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -678,7 +678,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 55,
-            "exp_total": 157073.18700364264
+            "exp_total": 158236.39429106537
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -865,7 +865,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 76,
-            "exp_total": 917581.0443611594
+            "exp_total": 917811.4443611589
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -1132,7 +1132,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 48,
-            "exp_total": 89131.7883569355
+            "exp_total": 89940.69063518714
           },
           "rank": 8,
           "player_name": "Tlywind",
@@ -1943,7 +1943,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 59,
-            "exp_total": 215585.46119818327
+            "exp_total": 215658.22889284807
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2160,7 +2160,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 317762.47656044946
+            "exp_total": 329474.47656045
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -2688,7 +2688,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 22,
-            "exp_total": 12470.55014171274
+            "exp_total": 12557.172612496928
           },
           "rank": 8,
           "player_name": "Tlywind",
@@ -2897,5 +2897,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760372802520
+  "timestamp": 1760375870125
 }
