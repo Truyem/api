@@ -1,5 +1,5 @@
 {
-  "total": 48,
+  "total": 49,
   "players": [
     {
       "money": 0,
@@ -16,25 +16,11 @@
       "lastPlayed": 1758280402720
     },
     {
-      "money": 0,
-      "name": "NgoLem277",
-      "isOnline": false,
-      "uuid": "6181456e-e62e-3cc9-8175-33d6e6f01775",
-      "lastPlayed": 1758570291956
-    },
-    {
-      "money": 8199888174507,
+      "money": 8199888151467,
       "name": "ZioOnly043",
       "isOnline": true,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
       "lastPlayed": 1760425941068
-    },
-    {
-      "money": 0,
-      "name": "dunglehong999",
-      "isOnline": false,
-      "uuid": "c3598e32-1cea-35c8-9ca7-485bb54c1018",
-      "lastPlayed": 1759320685293
     },
     {
       "money": 87811,
@@ -42,20 +28,6 @@
       "isOnline": false,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
       "lastPlayed": 1760422017783
-    },
-    {
-      "money": 0,
-      "name": "Cyril_Chaos",
-      "isOnline": false,
-      "uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1",
-      "lastPlayed": 1758299485535
-    },
-    {
-      "money": 0,
-      "name": "nami_ne",
-      "isOnline": false,
-      "uuid": "241ea42b-22eb-36d4-8594-b4a26802379b",
-      "lastPlayed": 1757920363217
     },
     {
       "money": 200,
@@ -73,13 +45,6 @@
     },
     {
       "money": 0,
-      "name": "Traleolala",
-      "isOnline": false,
-      "uuid": "4af6ac86-e6d8-39aa-8677-4d7419f75658",
-      "lastPlayed": 1758438850735
-    },
-    {
-      "money": 0,
       "name": "tomato",
       "isOnline": false,
       "uuid": "0a0a213c-feec-3e75-a020-4e4b329a9e69",
@@ -87,17 +52,10 @@
     },
     {
       "money": 0,
-      "name": "shadow",
+      "name": "RikkaTkanashi",
       "isOnline": false,
-      "uuid": "55576363-a43c-36f6-b83b-ceac7eff7544",
-      "lastPlayed": 1759652395770
-    },
-    {
-      "money": 0,
-      "name": "minhducc_10",
-      "isOnline": false,
-      "uuid": "c92cd50c-81dc-367c-b779-b67aa378d853",
-      "lastPlayed": 1758106098080
+      "uuid": "29560149-bae8-3a92-9a09-c644a5b0e6bb",
+      "lastPlayed": 1760430405471
     },
     {
       "money": 0,
@@ -105,13 +63,6 @@
       "isOnline": false,
       "uuid": "78c33100-89c3-3ee3-9383-32f3bdc6287f",
       "lastPlayed": 1757922428656
-    },
-    {
-      "money": 200,
-      "name": "ReapRory",
-      "isOnline": false,
-      "uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905",
-      "lastPlayed": 1758441086824
     },
     {
       "money": 56672,
@@ -135,13 +86,6 @@
       "lastPlayed": 1759565944320
     },
     {
-      "money": 0,
-      "name": "themoontle",
-      "isOnline": false,
-      "uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388",
-      "lastPlayed": 1758296816922
-    },
-    {
       "money": 143244,
       "name": "noobthichet",
       "isOnline": false,
@@ -154,13 +98,6 @@
       "isOnline": false,
       "uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a",
       "lastPlayed": 1758108999677
-    },
-    {
-      "money": 969999,
-      "name": "Truyem777",
-      "isOnline": false,
-      "uuid": "8702689b-8e4a-3111-85e0-35f82816e50b",
-      "lastPlayed": 1759696250703
     },
     {
       "money": 0,
@@ -177,53 +114,11 @@
       "lastPlayed": 1760364208773
     },
     {
-      "money": 0,
-      "name": "NgoLem2771",
-      "isOnline": false,
-      "uuid": "b735685e-4a19-373f-a3b7-427d95dc4523",
-      "lastPlayed": 1758570688807
-    },
-    {
-      "money": 13700.586904296873,
-      "name": "Ceine",
-      "isOnline": false,
-      "uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7",
-      "lastPlayed": 1759565926870
-    },
-    {
       "money": 5507794.5,
       "name": "bachthai",
       "isOnline": false,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
       "lastPlayed": 1760172192527
-    },
-    {
-      "money": 0,
-      "name": "yuki_moko",
-      "isOnline": false,
-      "uuid": "132be0e8-dfcb-334d-a0a2-a5d6c4f39306",
-      "lastPlayed": 1758709188754
-    },
-    {
-      "money": 74741209647.04091,
-      "name": "Truyem789",
-      "isOnline": false,
-      "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1760424424827
-    },
-    {
-      "money": 654,
-      "name": "Tralaleo",
-      "isOnline": false,
-      "uuid": "fa296c27-4443-30b7-bd25-8acd93183e88",
-      "lastPlayed": 1760270349275
-    },
-    {
-      "money": 40,
-      "name": "longthach",
-      "isOnline": false,
-      "uuid": "59bcd312-59da-360f-aab6-279c1a72eceb",
-      "lastPlayed": 1759565917520
     },
     {
       "money": 0,
@@ -240,13 +135,6 @@
       "lastPlayed": 1760422762720
     },
     {
-      "money": 102864,
-      "name": "KaI_ToU",
-      "isOnline": false,
-      "uuid": "8568f822-9540-389c-bf27-e57ccae7f976",
-      "lastPlayed": 1760370069593
-    },
-    {
       "money": 6642,
       "name": "ErenYeager",
       "isOnline": false,
@@ -254,18 +142,172 @@
       "lastPlayed": 1760247083691
     },
     {
-      "money": 1690,
-      "name": "NamDuyGaming",
-      "isOnline": false,
-      "uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0",
-      "lastPlayed": 1759634392880
-    },
-    {
       "money": 61696.399999999994,
       "name": "Tlywind",
       "isOnline": false,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
       "lastPlayed": 1760387975899
+    },
+    {
+      "money": 0,
+      "name": "mjnhquan",
+      "isOnline": false,
+      "uuid": "c6386cd8-ebf1-3925-9d18-598cc728c31b",
+      "lastPlayed": 1760167404689
+    },
+    {
+      "money": 0,
+      "name": "QuynhMC",
+      "isOnline": false,
+      "uuid": "be1da2fa-252a-3c11-bd7d-7f291b431109",
+      "lastPlayed": 1758804759914
+    },
+    {
+      "money": 0,
+      "name": "Duoitoasenvang",
+      "isOnline": false,
+      "uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3",
+      "lastPlayed": 1760237176368
+    },
+    {
+      "money": 545735,
+      "name": "Quoclam277",
+      "isOnline": false,
+      "uuid": "292e7873-887c-3961-b66e-57d4b6730bc9",
+      "lastPlayed": 1760293247923
+    },
+    {
+      "money": 0,
+      "name": "thuanfaf",
+      "isOnline": false,
+      "uuid": "e6b0f915-c752-32ce-9480-ab82d27ef5e7",
+      "lastPlayed": 1760248649116
+    },
+    {
+      "money": 0,
+      "name": "NgoLem277",
+      "isOnline": false,
+      "uuid": "6181456e-e62e-3cc9-8175-33d6e6f01775",
+      "lastPlayed": 1758570291956
+    },
+    {
+      "money": 0,
+      "name": "dunglehong999",
+      "isOnline": false,
+      "uuid": "c3598e32-1cea-35c8-9ca7-485bb54c1018",
+      "lastPlayed": 1759320685293
+    },
+    {
+      "money": 0,
+      "name": "Cyril_Chaos",
+      "isOnline": false,
+      "uuid": "ca7bc4ec-cc56-3ee3-95d5-c734821097f1",
+      "lastPlayed": 1758299485535
+    },
+    {
+      "money": 0,
+      "name": "nami_ne",
+      "isOnline": false,
+      "uuid": "241ea42b-22eb-36d4-8594-b4a26802379b",
+      "lastPlayed": 1757920363217
+    },
+    {
+      "money": 0,
+      "name": "Traleolala",
+      "isOnline": false,
+      "uuid": "4af6ac86-e6d8-39aa-8677-4d7419f75658",
+      "lastPlayed": 1758438850735
+    },
+    {
+      "money": 0,
+      "name": "shadow",
+      "isOnline": false,
+      "uuid": "55576363-a43c-36f6-b83b-ceac7eff7544",
+      "lastPlayed": 1759652395770
+    },
+    {
+      "money": 0,
+      "name": "minhducc_10",
+      "isOnline": false,
+      "uuid": "c92cd50c-81dc-367c-b779-b67aa378d853",
+      "lastPlayed": 1758106098080
+    },
+    {
+      "money": 200,
+      "name": "ReapRory",
+      "isOnline": false,
+      "uuid": "5d5bc410-e55d-38bd-b97d-df173a0dd905",
+      "lastPlayed": 1758441086824
+    },
+    {
+      "money": 0,
+      "name": "themoontle",
+      "isOnline": false,
+      "uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388",
+      "lastPlayed": 1758296816922
+    },
+    {
+      "money": 969999,
+      "name": "Truyem777",
+      "isOnline": false,
+      "uuid": "8702689b-8e4a-3111-85e0-35f82816e50b",
+      "lastPlayed": 1759696250703
+    },
+    {
+      "money": 0,
+      "name": "NgoLem2771",
+      "isOnline": false,
+      "uuid": "b735685e-4a19-373f-a3b7-427d95dc4523",
+      "lastPlayed": 1758570688807
+    },
+    {
+      "money": 13700.586904296873,
+      "name": "Ceine",
+      "isOnline": false,
+      "uuid": "6e9db6e2-43db-31be-bbfa-0e47eb69a1d7",
+      "lastPlayed": 1759565926870
+    },
+    {
+      "money": 0,
+      "name": "yuki_moko",
+      "isOnline": false,
+      "uuid": "132be0e8-dfcb-334d-a0a2-a5d6c4f39306",
+      "lastPlayed": 1758709188754
+    },
+    {
+      "money": 74741209647.04091,
+      "name": "Truyem789",
+      "isOnline": true,
+      "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
+      "lastPlayed": 1760429732584
+    },
+    {
+      "money": 654,
+      "name": "Tralaleo",
+      "isOnline": false,
+      "uuid": "fa296c27-4443-30b7-bd25-8acd93183e88",
+      "lastPlayed": 1760270349275
+    },
+    {
+      "money": 40,
+      "name": "longthach",
+      "isOnline": false,
+      "uuid": "59bcd312-59da-360f-aab6-279c1a72eceb",
+      "lastPlayed": 1759565917520
+    },
+    {
+      "money": 102864,
+      "name": "KaI_ToU",
+      "isOnline": false,
+      "uuid": "8568f822-9540-389c-bf27-e57ccae7f976",
+      "lastPlayed": 1760370069593
+    },
+    {
+      "money": 1690,
+      "name": "NamDuyGaming",
+      "isOnline": false,
+      "uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0",
+      "lastPlayed": 1759634392880
     },
     {
       "money": 0,
@@ -290,53 +332,18 @@
     },
     {
       "money": 0,
-      "name": "mjnhquan",
-      "isOnline": false,
-      "uuid": "c6386cd8-ebf1-3925-9d18-598cc728c31b",
-      "lastPlayed": 1760167404689
-    },
-    {
-      "money": 0,
-      "name": "QuynhMC",
-      "isOnline": false,
-      "uuid": "be1da2fa-252a-3c11-bd7d-7f291b431109",
-      "lastPlayed": 1758804759914
-    },
-    {
-      "money": 0,
-      "name": "Duoitoasenvang",
-      "isOnline": false,
-      "uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3",
-      "lastPlayed": 1760237176368
-    },
-    {
-      "money": 0,
       "name": "ErenNigga",
       "isOnline": false,
       "uuid": "ee61fe7f-ffff-3f62-a841-21a8f07813c2",
       "lastPlayed": 1758438347932
     },
     {
-      "money": 545735,
-      "name": "Quoclam277",
-      "isOnline": false,
-      "uuid": "292e7873-887c-3961-b66e-57d4b6730bc9",
-      "lastPlayed": 1760293247923
-    },
-    {
       "money": 7620165.5,
       "name": "hungthi",
-      "isOnline": true,
-      "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1760418848809
-    },
-    {
-      "money": 0,
-      "name": "thuanfaf",
       "isOnline": false,
-      "uuid": "e6b0f915-c752-32ce-9480-ab82d27ef5e7",
-      "lastPlayed": 1760248649116
+      "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
+      "lastPlayed": 1760426942701
     }
   ],
-  "timestamp": 1760426456769
+  "timestamp": 1760430425775
 }
