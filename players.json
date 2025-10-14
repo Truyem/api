@@ -18,9 +18,9 @@
     {
       "money": 8199888191317,
       "name": "ZioOnly043",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760464805413
+      "lastPlayed": 1760469864696
     },
     {
       "money": 80251,
@@ -277,9 +277,9 @@
     {
       "money": 74741209647.04091,
       "name": "Truyem789",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1760450054044
+      "lastPlayed": 1760475285653
     },
     {
       "money": 654,
@@ -345,5 +345,5 @@
       "lastPlayed": 1760443831271
     }
   ],
-  "timestamp": 1760469389510
+  "timestamp": 1760476697713
 }
