@@ -180,21 +180,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 323835.8988207641
+            "exp_total": 334512.8791751848
           },
           "rank": 4,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 63,
-            "exp_total": 309720.51596851036
+            "level": 64,
+            "exp_total": 323835.8988207641
           },
           "rank": 5,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 0,
@@ -357,7 +357,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 21,
-            "exp_total": 12176
+            "exp_total": 12326
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -511,7 +511,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 84,
-            "exp_total": 1900719.24009057
+            "exp_total": 1901122.4400905692
           },
           "rank": 2,
           "player_name": "tuyen1312121",
@@ -854,8 +854,8 @@
         {
           "main_stat": 1,
           "extra_stats": {
-            "level": 71,
-            "exp_total": 8728502.967025511
+            "level": 72,
+            "exp_total": 8781466.167025307
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -874,8 +874,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 82,
-            "exp_total": 1605777.2137275946
+            "level": 84,
+            "exp_total": 1984229.2137275946
           },
           "rank": 6,
           "player_name": "KaI_ToU",
@@ -1102,7 +1102,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 495363.3586715337
+            "exp_total": 524445.6077317373
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -1132,7 +1132,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 55,
-            "exp_total": 151245.80829149915
+            "exp_total": 156735.63781703098
           },
           "rank": 7,
           "player_name": "KaI_ToU",
@@ -1646,7 +1646,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 94,
-            "exp_total": 4735932.000009179
+            "exp_total": 4749420.000009179
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -1992,8 +1992,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 53,
-            "exp_total": 132360.85964861073
+            "level": 54,
+            "exp_total": 139270.6224775337
           },
           "rank": 6,
           "player_name": "KaI_ToU",
@@ -2160,7 +2160,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 73,
-            "exp_total": 751453.0407735468
+            "exp_total": 751693.0407735468
           },
           "rank": 2,
           "player_name": "KaI_ToU",
@@ -2180,7 +2180,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 501383.41381204437
+            "exp_total": 501503.41381204437
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -2441,7 +2441,7 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 89400,
+          "main_stat": 89600,
           "extra_stats": {
             "level": 64
           },
@@ -2477,7 +2477,7 @@
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
         {
-          "main_stat": 58700,
+          "main_stat": 59000,
           "extra_stats": {
             "level": 47
           },
@@ -2937,5 +2937,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760512868455
+  "timestamp": 1760516969546
 }
