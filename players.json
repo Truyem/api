@@ -23,11 +23,11 @@
       "lastPlayed": 1760504061380
     },
     {
-      "money": 3361,
+      "money": 61,
       "name": "tuyen1312121",
       "isOnline": true,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1760500694153
+      "lastPlayed": 1760507365020
     },
     {
       "money": 200,
@@ -345,5 +345,5 @@
       "lastPlayed": 1760504769177
     }
   ],
-  "timestamp": 1760505604562
+  "timestamp": 1760509886378
 }
