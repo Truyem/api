@@ -179,8 +179,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 69,
-            "exp_total": 524391.3661722341
+            "level": 70,
+            "exp_total": 538633.114171094
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -200,7 +200,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 60,
-            "exp_total": 233353.29504429054
+            "exp_total": 233515.29504429054
           },
           "rank": 6,
           "player_name": "hungthi",
@@ -647,8 +647,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 70,
-            "exp_total": 575407.7067330892
+            "level": 71,
+            "exp_total": 586032.7819615824
           },
           "rank": 2,
           "player_name": "hungthi",
@@ -855,7 +855,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 74,
-            "exp_total": 8895089.127024693
+            "exp_total": 8896173.927024815
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -1101,8 +1101,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 74,
-            "exp_total": 822104.2998070341
+            "level": 75,
+            "exp_total": 833906.3397760829
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -1972,8 +1972,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 74,
-            "exp_total": 819812.203028371
+            "level": 75,
+            "exp_total": 833415.9905658137
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -2003,7 +2003,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 51,
-            "exp_total": 109808.37480817831
+            "exp_total": 111669.19450106364
           },
           "rank": 7,
           "player_name": "tuyen1312121",
@@ -2170,7 +2170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 624925.5138120074
+            "exp_total": 626773.5138120074
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -2441,7 +2441,7 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 92800,
+          "main_stat": 93000,
           "extra_stats": {
             "level": 66
           },
@@ -2450,7 +2450,7 @@
           "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
-          "main_stat": 87900,
+          "main_stat": 88100,
           "extra_stats": {
             "level": 63
           },
@@ -2688,7 +2688,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 34,
-            "exp_total": 29086.754694789113
+            "exp_total": 29492.944038894464
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -2937,5 +2937,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760603369606
+  "timestamp": 1760606625372
 }
