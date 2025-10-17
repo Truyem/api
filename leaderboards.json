@@ -83,7 +83,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 86,
-            "exp_total": 2290818.5849999986
+            "exp_total": 2359715.9849999985
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -160,7 +160,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 73,
-            "exp_total": 717049.9460253848
+            "exp_total": 722730.5717689821
           },
           "rank": 2,
           "player_name": "tuyen1312121",
@@ -190,7 +190,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 323835.8988207641
+            "exp_total": 324105.8988207641
           },
           "rank": 5,
           "player_name": "bachthai",
@@ -1102,7 +1102,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 88,
-            "exp_total": 2796974.832345593
+            "exp_total": 2911814.5241796183
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1112,7 +1112,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1407595.2308174395
+            "exp_total": 1410028.9787878986
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -1389,7 +1389,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 8308766.7
+            "exp_total": 8362046.7
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1993,7 +1993,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 83,
-            "exp_total": 1816366.2469235712
+            "exp_total": 1822685.2059276325
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2210,7 +2210,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 630690.3138120073
+            "exp_total": 631045.5138120073
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -2482,7 +2482,7 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 97200,
+          "main_stat": 97400,
           "extra_stats": {
             "level": 68
           },
@@ -2737,8 +2737,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 40,
-            "exp_total": 47120.146094684125
+            "level": 42,
+            "exp_total": 53289.427691035766
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -2748,7 +2748,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 32,
-            "exp_total": 25301.5697799807
+            "exp_total": 25802.192960690536
           },
           "rank": 5,
           "player_name": "bachthai",
@@ -2997,5 +2997,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760704953436
+  "timestamp": 1760707751946
 }
