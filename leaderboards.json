@@ -170,7 +170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 624024.7265718433
+            "exp_total": 634836.5320789544
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -855,7 +855,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 74,
-            "exp_total": 8902672.887024857
+            "exp_total": 8904763.287024882
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -1102,7 +1102,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 78,
-            "exp_total": 1096930.068625252
+            "exp_total": 1139010.992231409
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -2688,7 +2688,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 35,
-            "exp_total": 31504.217477096365
+            "exp_total": 31529.236877096366
           },
           "rank": 4,
           "player_name": "tuyen1312121",
@@ -2937,5 +2937,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760656615705
+  "timestamp": 1760665096616
 }
