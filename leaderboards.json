@@ -219,8 +219,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 51,
-            "exp_total": 112063.03371016671
+            "level": 54,
+            "exp_total": 135497.71790928693
           },
           "rank": 8,
           "player_name": "D0k11",
@@ -591,7 +591,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 28,
-            "exp_total": 19054.400000095367
+            "exp_total": 19086.400000095367
           },
           "rank": 9,
           "player_name": "D0k11",
@@ -717,8 +717,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 41,
-            "exp_total": 50450.69993925372
+            "level": 42,
+            "exp_total": 52616.323605708465
           },
           "rank": 8,
           "player_name": "D0k11",
@@ -944,22 +944,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 53,
-            "exp_total": 134624
+            "level": 55,
+            "exp_total": 149602
           },
           "rank": 11,
-          "player_name": "NamDuyGaming",
-          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 53,
-            "exp_total": 131642
+            "exp_total": 134624
           },
           "rank": 12,
-          "player_name": "D0k11",
-          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
+          "player_name": "NamDuyGaming",
+          "player_uuid": "4a0ad0d2-e823-31c9-bc37-49d35fb02fb0"
         },
         {
           "main_stat": 0,
@@ -1192,9 +1192,19 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 37,
-            "exp_total": 36969.92397591054
+            "exp_total": 38669.75663751762
           },
           "rank": 11,
+          "player_name": "D0k11",
+          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 37,
+            "exp_total": 36969.92397591054
+          },
+          "rank": 12,
           "player_name": "Quoclam277",
           "player_uuid": "292e7873-887c-3961-b66e-57d4b6730bc9"
         },
@@ -1204,7 +1214,7 @@
             "level": 23,
             "exp_total": 13873.604863036351
           },
-          "rank": 12,
+          "rank": 13,
           "player_name": "nunuem",
           "player_uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926"
         },
@@ -1214,7 +1224,7 @@
             "level": 18,
             "exp_total": 9196.704731126913
           },
-          "rank": 13,
+          "rank": 14,
           "player_name": "keocondepzainhat",
           "player_uuid": "f0158f82-4913-3f8a-8f71-36d4579fd7eb"
         },
@@ -1224,7 +1234,7 @@
             "level": 17,
             "exp_total": 8686.25786570974
           },
-          "rank": 14,
+          "rank": 15,
           "player_name": "Pencil2502",
           "player_uuid": "8c566ef6-574c-38c0-81cf-ea4ed3955126"
         },
@@ -1234,19 +1244,9 @@
             "level": 15,
             "exp_total": 7708.088147207818
           },
-          "rank": 15,
+          "rank": 16,
           "player_name": "baohoang",
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
-        },
-        {
-          "main_stat": 0,
-          "extra_stats": {
-            "level": 11,
-            "exp_total": 5001.671573700784
-          },
-          "rank": 16,
-          "player_name": "D0k11",
-          "player_uuid": "c7d3231c-6816-370a-bf50-aee9315f526a"
         },
         {
           "main_stat": 0,
@@ -2082,8 +2082,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 32,
-            "exp_total": 26918.730718141363
+            "level": 33,
+            "exp_total": 27218.730718141363
           },
           "rank": 12,
           "player_name": "D0k11",
@@ -2563,9 +2563,9 @@
           "player_uuid": "d9f13674-8964-3d69-84bd-dea8afdefbcb"
         },
         {
-          "main_stat": 27700,
+          "main_stat": 31000,
           "extra_stats": {
-            "level": 26
+            "level": 28
           },
           "rank": 12,
           "player_name": "D0k11",
@@ -2997,5 +2997,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1760692961597
+  "timestamp": 1760696533806
 }

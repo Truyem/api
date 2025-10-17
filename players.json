@@ -27,7 +27,7 @@
       "name": "tuyen1312121",
       "isOnline": false,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1760691572307
+      "lastPlayed": 1760694947932
     },
     {
       "money": 200,
@@ -135,11 +135,11 @@
       "lastPlayed": 1758701911127
     },
     {
-      "money": 10655.293452148437,
+      "money": 9655.293452148437,
       "name": "D0k11",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "c7d3231c-6816-370a-bf50-aee9315f526a",
-      "lastPlayed": 1760422762720
+      "lastPlayed": 1760695600832
     },
     {
       "money": 6642,
@@ -352,5 +352,5 @@
       "lastPlayed": 1760687072601
     }
   ],
-  "timestamp": 1760692962773
+  "timestamp": 1760696535262
 }
