@@ -116,9 +116,9 @@
     {
       "money": 136978.5,
       "name": "bachthai",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
-      "lastPlayed": 1760789891540
+      "lastPlayed": 1760794383032
     },
     {
       "money": 5000,
@@ -172,9 +172,9 @@
     {
       "money": 0,
       "name": "Duoitoasenvang",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3",
-      "lastPlayed": 1760237176368
+      "lastPlayed": 1760796637420
     },
     {
       "money": 545735,
@@ -352,5 +352,5 @@
       "lastPlayed": 1760776278084
     }
   ],
-  "timestamp": 1760793834203
+  "timestamp": 1760797020503
 }
