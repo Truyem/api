@@ -20,7 +20,7 @@
       "name": "ZioOnly043",
       "isOnline": false,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760814682152
+      "lastPlayed": 1760844460223
     },
     {
       "money": 86847,
@@ -347,10 +347,10 @@
     {
       "money": 53265.5,
       "name": "hungthi",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1760841121004
+      "lastPlayed": 1760843959394
     }
   ],
-  "timestamp": 1760843847583
+  "timestamp": 1760847903511
 }
