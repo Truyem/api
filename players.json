@@ -20,7 +20,7 @@
       "name": "ZioOnly043",
       "isOnline": false,
       "uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98",
-      "lastPlayed": 1760972921155
+      "lastPlayed": 1760990811593
     },
     {
       "money": 75567,
@@ -149,7 +149,7 @@
       "lastPlayed": 1760247083691
     },
     {
-      "money": 65713.4,
+      "money": 63773.399999999994,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
@@ -359,5 +359,5 @@
       "lastPlayed": 1760971184240
     }
   ],
-  "timestamp": 1760987846211
+  "timestamp": 1760991842908
 }
