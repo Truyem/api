@@ -1,5 +1,5 @@
 {
-  "total": 50,
+  "total": 51,
   "players": [
     {
       "money": 0,
@@ -151,9 +151,9 @@
     {
       "money": 2438.3999999999946,
       "name": "Tlywind",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1760961606947
+      "lastPlayed": 1760965150953
     },
     {
       "money": 0,
@@ -161,6 +161,13 @@
       "isOnline": false,
       "uuid": "c6386cd8-ebf1-3925-9d18-598cc728c31b",
       "lastPlayed": 1760167404689
+    },
+    {
+      "money": 0,
+      "name": "King_Of_Dog",
+      "isOnline": false,
+      "uuid": "a7d61329-6a17-3039-be0f-bb1f6856e633",
+      "lastPlayed": 1760965271925
     },
     {
       "money": 0,
@@ -352,5 +359,5 @@
       "lastPlayed": 1760945355711
     }
   ],
-  "timestamp": 1760964243346
+  "timestamp": 1760967049489
 }
