@@ -23,11 +23,11 @@
       "lastPlayed": 1760936200901
     },
     {
-      "money": 86847,
+      "money": 75567,
       "name": "tuyen1312121",
       "isOnline": false,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1760933058347
+      "lastPlayed": 1760941358252
     },
     {
       "money": 200,
@@ -345,12 +345,12 @@
       "lastPlayed": 1758438347932
     },
     {
-      "money": 2036150.5,
+      "money": 1960430.5,
       "name": "hungthi",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1760916069793
+      "lastPlayed": 1760939164247
     }
   ],
-  "timestamp": 1760937692766
+  "timestamp": 1760941964999
 }
