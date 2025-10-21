@@ -16,7 +16,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 80,
-            "exp_total": 1389904.7468395615
+            "exp_total": 1393984.7468395615
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -531,7 +531,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 89,
-            "exp_total": 3011493.279999922
+            "exp_total": 3011512.479999922
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -658,7 +658,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 834826.664928729
+            "exp_total": 835137.1163908683
           },
           "rank": 1,
           "player_name": "hungthi",
@@ -668,7 +668,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 693187.4957347101
+            "exp_total": 693913.5683248746
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -688,7 +688,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 63,
-            "exp_total": 299525.24511503335
+            "exp_total": 300251.3177051978
           },
           "rank": 4,
           "player_name": "bachthai",
@@ -855,7 +855,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16537176.989997951
+            "exp_total": 16537310.189997954
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -865,7 +865,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16486024.519999838
+            "exp_total": 16486667.719999801
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1102,7 +1102,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16851944.470029812
+            "exp_total": 16866415.247598376
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1112,7 +1112,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 99,
-            "exp_total": 7254304.458868855
+            "exp_total": 7368650.000419477
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1686,7 +1686,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 7926676
+            "exp_total": 7932580
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1983,7 +1983,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 85,
-            "exp_total": 11826119.366349952
+            "exp_total": 11830405.496228294
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1993,7 +1993,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 93,
-            "exp_total": 4199849.066070549
+            "exp_total": 4215607.780059876
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -2013,7 +2013,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 82,
-            "exp_total": 1585825.6704262001
+            "exp_total": 1588566.2981255548
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -2220,7 +2220,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 838339.14000016
+            "exp_total": 838684.74000016
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2230,7 +2230,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 829935.2573319817
+            "exp_total": 829992.8573319816
           },
           "rank": 4,
           "player_name": "ZioOnly043",
@@ -2240,7 +2240,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 691231.4801827343
+            "exp_total": 691658.6801827343
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -2728,7 +2728,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 56,
-            "exp_total": 171677.74875994466
+            "exp_total": 171703.9332727115
           },
           "rank": 2,
           "player_name": "ZioOnly043",
@@ -2738,7 +2738,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 49,
-            "exp_total": 96369.07835821301
+            "exp_total": 96806.31686086334
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761024017430
+  "timestamp": 1761028304687
 }
