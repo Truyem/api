@@ -658,7 +658,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 837337.1961493746
+            "exp_total": 837966.1385162276
           },
           "rank": 1,
           "player_name": "hungthi",
@@ -875,7 +875,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 92,
-            "exp_total": 12850303.556728356
+            "exp_total": 12850362.35672836
           },
           "rank": 3,
           "player_name": "hungthi",
@@ -1142,7 +1142,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 68,
-            "exp_total": 456292.34423326666
+            "exp_total": 477184.6770551388
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -2013,7 +2013,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 82,
-            "exp_total": 1590827.2858571734
+            "exp_total": 1599006.1493729735
           },
           "rank": 4,
           "player_name": "hungthi",
@@ -2240,7 +2240,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 72,
-            "exp_total": 691658.6801827343
+            "exp_total": 691850.6801827343
           },
           "rank": 5,
           "player_name": "hungthi",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761045445950
+  "timestamp": 1761050713926
 }
