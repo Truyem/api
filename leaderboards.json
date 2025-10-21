@@ -180,7 +180,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 74,
-            "exp_total": 795195.2936133216
+            "exp_total": 809900.618307784
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -1102,7 +1102,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16847794.581087537
+            "exp_total": 16851944.470029812
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1121,8 +1121,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 82,
-            "exp_total": 1617953.993088069
+            "level": 83,
+            "exp_total": 1789649.8289163702
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -1419,7 +1419,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 899299.6724129934
+            "exp_total": 901459.6724129934
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -1983,7 +1983,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 85,
-            "exp_total": 11824910.042955887
+            "exp_total": 11826119.366349952
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2249,8 +2249,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 71,
-            "exp_total": 634885.5138120073
+            "level": 72,
+            "exp_total": 638629.5138120073
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -2510,7 +2510,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 98000,
+          "main_stat": 98200,
           "extra_stats": {
             "level": 68
           },
@@ -2758,7 +2758,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 43,
-            "exp_total": 58201.82901780706
+            "exp_total": 59878.68742745214
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -2985,7 +2985,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 2,
-            "exp_total": 845.781197063432
+            "exp_total": 851.0652722569806
           },
           "rank": 8,
           "player_name": "tuyen1312121",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761016011065
+  "timestamp": 1761020702739
 }
