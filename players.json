@@ -118,7 +118,7 @@
       "name": "khanhlinhZZ201",
       "isOnline": false,
       "uuid": "510afe18-d2b8-3e74-9e62-c3b7e8f4fb7a",
-      "lastPlayed": 1760541241251
+      "lastPlayed": 1761096446743
     },
     {
       "money": 372140.5,
@@ -156,11 +156,11 @@
       "lastPlayed": 1760247083691
     },
     {
-      "money": 55029.399999999994,
+      "money": 48757.399999999994,
       "name": "Tlywind",
       "isOnline": false,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1760998018929
+      "lastPlayed": 1761095536611
     },
     {
       "money": 0,
@@ -373,5 +373,5 @@
       "lastPlayed": 1761049917874
     }
   ],
-  "timestamp": 1761088781564
+  "timestamp": 1761097427177
 }

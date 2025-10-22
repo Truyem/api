@@ -366,22 +366,22 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 37,
-            "exp_total": 38750.000000000146
+            "level": 41,
+            "exp_total": 50277.5
           },
           "rank": 4,
-          "player_name": "tuyen1312121",
-          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
+          "player_name": "Tlywind",
+          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 35,
-            "exp_total": 32361.5
+            "level": 37,
+            "exp_total": 38750.000000000146
           },
           "rank": 5,
-          "player_name": "Tlywind",
-          "player_uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb"
+          "player_name": "tuyen1312121",
+          "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
           "main_stat": 0,
@@ -581,7 +581,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 60,
-            "exp_total": 227693.17602558376
+            "exp_total": 227712.37602558377
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -678,7 +678,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 323550.4851269404
+            "exp_total": 324060.1046397301
           },
           "rank": 3,
           "player_name": "Tlywind",
@@ -1152,7 +1152,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 281292.3890803883
+            "exp_total": 281822.1303595564
           },
           "rank": 6,
           "player_name": "khanhlinhZZ201",
@@ -2023,7 +2023,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 63,
-            "exp_total": 312467.8462436525
+            "exp_total": 313436.4518202226
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2260,7 +2260,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 386647.27656045073
+            "exp_total": 387055.27656045073
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -2270,7 +2270,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 53,
-            "exp_total": 129826
+            "exp_total": 132982
           },
           "rank": 8,
           "player_name": "khanhlinhZZ201",
@@ -2519,9 +2519,9 @@
           "player_uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6"
         },
         {
-          "main_stat": 79000,
+          "main_stat": 79700,
           "extra_stats": {
-            "level": 58
+            "level": 59
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -2924,8 +2924,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 53,
-            "exp_total": 134340.86927620164
+            "level": 54,
+            "exp_total": 137855.31796638053
           },
           "rank": 2,
           "player_name": "Tlywind",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761088780395
+  "timestamp": 1761097426141
 }
