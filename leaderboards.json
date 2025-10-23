@@ -530,8 +530,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 90,
-            "exp_total": 3191282.079999925
+            "level": 92,
+            "exp_total": 3840123.679999936
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -854,8 +854,8 @@
         {
           "main_stat": 2,
           "extra_stats": {
-            "level": 79,
-            "exp_total": 17704559.647999834
+            "level": 95,
+            "exp_total": 21832615.910000023
           },
           "rank": 1,
           "player_name": "bachthai",
@@ -1112,7 +1112,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 99,
-            "exp_total": 7419859.467663513
+            "exp_total": 7564340.970628049
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1993,7 +1993,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 93,
-            "exp_total": 4266762.8130955715
+            "exp_total": 4297575.248832095
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -2220,7 +2220,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 852412.74000016
+            "exp_total": 876876.74000016
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2492,9 +2492,9 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 135400,
+          "main_stat": 137200,
           "extra_stats": {
-            "level": 85
+            "level": 86
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2738,7 +2738,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 49,
-            "exp_total": 97161.48637828398
+            "exp_total": 97238.9048086219
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761236836646
+  "timestamp": 1761239908945
 }
