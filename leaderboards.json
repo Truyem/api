@@ -220,7 +220,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 60,
-            "exp_total": 226082.38145019324
+            "exp_total": 226708.16799191697
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -530,8 +530,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 89,
-            "exp_total": 3011512.479999922
+            "level": 90,
+            "exp_total": 3191282.079999925
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -581,7 +581,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 60,
-            "exp_total": 227904.3760255839
+            "exp_total": 227913.9760255839
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -852,24 +852,24 @@
     {
       "entries": [
         {
-          "main_stat": 1,
+          "main_stat": 2,
           "extra_stats": {
-            "level": 100,
-            "exp_total": 16559510.189997954
+            "level": 79,
+            "exp_total": 17704559.647999834
           },
           "rank": 1,
-          "player_name": "ZioOnly043",
-          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
+          "player_name": "bachthai",
+          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16486684.5199998
+            "exp_total": 16559510.189997954
           },
           "rank": 2,
-          "player_name": "bachthai",
-          "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
+          "player_name": "ZioOnly043",
+          "player_uuid": "c9256913-87f1-39fb-9932-9fc7137f2b98"
         },
         {
           "main_stat": 1,
@@ -1112,7 +1112,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 99,
-            "exp_total": 7371310.907629005
+            "exp_total": 7419859.467663513
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -1686,7 +1686,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 100,
-            "exp_total": 7932580
+            "exp_total": 7932820
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -1993,7 +1993,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 93,
-            "exp_total": 4217735.40651576
+            "exp_total": 4266762.8130955715
           },
           "rank": 2,
           "player_name": "bachthai",
@@ -2023,7 +2023,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 64,
-            "exp_total": 338985.77557118743
+            "exp_total": 339667.51771335606
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2220,7 +2220,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 838684.74000016
+            "exp_total": 852412.74000016
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2260,7 +2260,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 400994.4765604513
+            "exp_total": 401126.4765604513
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -2492,9 +2492,9 @@
           "player_uuid": "c3837209-9629-3134-a93c-b74ec28f0eee"
         },
         {
-          "main_stat": 127400,
+          "main_stat": 135400,
           "extra_stats": {
-            "level": 82
+            "level": 85
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2519,7 +2519,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 83100,
+          "main_stat": 83200,
           "extra_stats": {
             "level": 61
           },
@@ -2738,7 +2738,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 49,
-            "exp_total": 96847.33473180927
+            "exp_total": 97161.48637828398
           },
           "rank": 3,
           "player_name": "bachthai",
@@ -2924,8 +2924,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 58,
-            "exp_total": 205386.60346507575
+            "level": 59,
+            "exp_total": 206866.2186623474
           },
           "rank": 2,
           "player_name": "Tlywind",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761232955065
+  "timestamp": 1761236836646
 }
