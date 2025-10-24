@@ -298,9 +298,9 @@
     {
       "money": 74741209647.04091,
       "name": "Truyem789",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1761265668897
+      "lastPlayed": 1761274179390
     },
     {
       "money": 654,
@@ -373,5 +373,5 @@
       "lastPlayed": 1761049917874
     }
   ],
-  "timestamp": 1761269293739
+  "timestamp": 1761274871468
 }
