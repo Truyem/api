@@ -121,11 +121,11 @@
       "lastPlayed": 1761096446743
     },
     {
-      "money": 432358.5,
+      "money": 393958.5,
       "name": "bachthai",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
-      "lastPlayed": 1761238293622
+      "lastPlayed": 1761282447399
     },
     {
       "money": 5000,
@@ -373,5 +373,5 @@
       "lastPlayed": 1761049917874
     }
   ],
-  "timestamp": 1761279924896
+  "timestamp": 1761283188347
 }
