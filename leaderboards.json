@@ -1666,7 +1666,7 @@
           "main_stat": 2,
           "extra_stats": {
             "level": 100,
-            "exp_total": 300000100372.2001
+            "exp_total": 300000100398.6001
           },
           "rank": 1,
           "player_name": "Truyem789",
@@ -2410,7 +2410,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 9,
-            "exp_total": 3922
+            "exp_total": 3962
           },
           "rank": 22,
           "player_name": "Truyem789",
@@ -2768,7 +2768,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 36,
-            "exp_total": 35102.20725300241
+            "exp_total": 35166.04725191522
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761376701150
+  "timestamp": 1761383943635
 }
