@@ -356,8 +356,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 58,
-            "exp_total": 190776.2000479926
+            "level": 59,
+            "exp_total": 213820.2000479926
           },
           "rank": 3,
           "player_name": "ZioOnly043",
@@ -366,8 +366,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 53,
-            "exp_total": 128871.5
+            "level": 54,
+            "exp_total": 146217.5
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -1102,7 +1102,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 100,
-            "exp_total": 16899757.14426019
+            "exp_total": 16900433.281922705
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -1705,8 +1705,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 75,
-            "exp_total": 864158
+            "level": 76,
+            "exp_total": 965390
           },
           "rank": 5,
           "player_name": "ZioOnly043",
@@ -1983,7 +1983,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 85,
-            "exp_total": 11859247.59242625
+            "exp_total": 11861352.063869605
           },
           "rank": 1,
           "player_name": "ZioOnly043",
@@ -2474,7 +2474,7 @@
     {
       "entries": [
         {
-          "main_stat": 173300,
+          "main_stat": 173500,
           "extra_stats": {
             "level": 100
           },
@@ -2519,7 +2519,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 83400,
+          "main_stat": 83500,
           "extra_stats": {
             "level": 61
           },
@@ -3007,5 +3007,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761390914976
+  "timestamp": 1761398640881
 }
