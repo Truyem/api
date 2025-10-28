@@ -156,11 +156,11 @@
       "lastPlayed": 1761631205725
     },
     {
-      "money": 90839.49999999999,
+      "money": 90769.49999999999,
       "name": "Tlywind",
       "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1761656423341
+      "lastPlayed": 1761663850259
     },
     {
       "money": 0,
@@ -366,12 +366,12 @@
       "lastPlayed": 1758438347932
     },
     {
-      "money": 1674400.5,
+      "money": 1489400.5,
       "name": "hungthi",
-      "isOnline": true,
+      "isOnline": false,
       "uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35",
-      "lastPlayed": 1761459461484
+      "lastPlayed": 1761661969693
     }
   ],
-  "timestamp": 1761661330702
+  "timestamp": 1761665056990
 }
