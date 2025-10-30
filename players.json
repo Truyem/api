@@ -62,7 +62,7 @@
       "name": "RikkaTkanashi",
       "isOnline": false,
       "uuid": "29560149-bae8-3a92-9a09-c644a5b0e6bb",
-      "lastPlayed": 1760600687776
+      "lastPlayed": 1761846045195
     },
     {
       "money": 0,
@@ -156,11 +156,11 @@
       "lastPlayed": 1761631205725
     },
     {
-      "money": 93219.49999999999,
+      "money": 93639.49999999999,
       "name": "Tlywind",
       "isOnline": false,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
-      "lastPlayed": 1761840154153
+      "lastPlayed": 1761848490619
     },
     {
       "money": 0,
@@ -373,5 +373,5 @@
       "lastPlayed": 1761810380135
     }
   ],
-  "timestamp": 1761844754189
+  "timestamp": 1761849060617
 }

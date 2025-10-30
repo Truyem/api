@@ -678,7 +678,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 71,
-            "exp_total": 627133.8129393973
+            "exp_total": 632245.1456684552
           },
           "rank": 3,
           "player_name": "Tlywind",
@@ -1966,9 +1966,19 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 1,
-            "exp_total": 640
+            "exp_total": 680
           },
           "rank": 31,
+          "player_name": "RikkaTkanashi",
+          "player_uuid": "29560149-bae8-3a92-9a09-c644a5b0e6bb"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 640
+          },
+          "rank": 32,
           "player_name": "nami_ne",
           "player_uuid": "241ea42b-22eb-36d4-8594-b4a26802379b"
         }
@@ -2023,7 +2033,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 76,
-            "exp_total": 932205.8457872468
+            "exp_total": 942216.9934635385
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2748,7 +2758,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 55,
-            "exp_total": 153267.69232175263
+            "exp_total": 154005.39232175262
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -2915,7 +2925,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 66,
-            "exp_total": 395925.9167552291
+            "exp_total": 403957.07717329724
           },
           "rank": 1,
           "player_name": "Tlywind",
@@ -3007,5 +3017,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761844752973
+  "timestamp": 1761849059424
 }
