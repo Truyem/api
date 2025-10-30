@@ -158,7 +158,7 @@
     {
       "money": 89526.49999999999,
       "name": "Tlywind",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "108dcb23-9346-3ead-92d0-3f89bc99d2cb",
       "lastPlayed": 1761819272298
     },
@@ -373,5 +373,5 @@
       "lastPlayed": 1761810380135
     }
   ],
-  "timestamp": 1761828239480
+  "timestamp": 1761831131227
 }
