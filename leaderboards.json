@@ -170,7 +170,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 75,
-            "exp_total": 876859.1198208021
+            "exp_total": 878212.8491617998
           },
           "rank": 2,
           "player_name": "tuyen1312121",
@@ -210,7 +210,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 62,
-            "exp_total": 282427.7707816959
+            "exp_total": 282615.945230566
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -581,7 +581,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 63,
-            "exp_total": 296202.37602560065
+            "exp_total": 296739.97602560057
           },
           "rank": 6,
           "player_name": "Tlywind",
@@ -687,8 +687,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 71,
-            "exp_total": 634518.25046028
+            "level": 72,
+            "exp_total": 667281.8410878667
           },
           "rank": 3,
           "player_name": "Tlywind",
@@ -737,8 +737,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 42,
-            "exp_total": 56011.185526674584
+            "level": 44,
+            "exp_total": 65511.87026034879
           },
           "rank": 8,
           "player_name": "tuyen1312121",
@@ -1142,7 +1142,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 87,
-            "exp_total": 2492606.5274315197
+            "exp_total": 2493263.753131144
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -1202,7 +1202,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 54,
-            "exp_total": 145515.99845950614
+            "exp_total": 146173.22415913027
           },
           "rank": 9,
           "player_name": "Tlywind",
@@ -2063,7 +2063,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 76,
-            "exp_total": 948976.2337765177
+            "exp_total": 984356.3035779982
           },
           "rank": 5,
           "player_name": "Tlywind",
@@ -2073,7 +2073,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 69,
-            "exp_total": 508862.5120695267
+            "exp_total": 529195.8799000547
           },
           "rank": 6,
           "player_name": "tuyen1312121",
@@ -2300,7 +2300,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 68,
-            "exp_total": 458906.4765604527
+            "exp_total": 459194.4765604527
           },
           "rank": 7,
           "player_name": "Tlywind",
@@ -2541,7 +2541,7 @@
           "player_uuid": "bb416577-5473-3e27-b637-86749e072361"
         },
         {
-          "main_stat": 107300,
+          "main_stat": 107500,
           "extra_stats": {
             "level": 73
           },
@@ -2559,7 +2559,7 @@
           "player_uuid": "5b327b4e-acfc-3f6f-b480-df968ed67b35"
         },
         {
-          "main_stat": 91000,
+          "main_stat": 91200,
           "extra_stats": {
             "level": 65
           },
@@ -2768,7 +2768,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 65,
-            "exp_total": 356982.75593376264
+            "exp_total": 373614.4208128221
           },
           "rank": 2,
           "player_name": "tuyen1312121",
@@ -2787,8 +2787,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 55,
-            "exp_total": 154554.2334027695
+            "level": 56,
+            "exp_total": 160517.863208606
           },
           "rank": 4,
           "player_name": "Tlywind",
@@ -2955,7 +2955,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 67,
-            "exp_total": 409644.09655402147
+            "exp_total": 417559.32783103664
           },
           "rank": 1,
           "player_name": "Tlywind",
@@ -2975,7 +2975,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 40,
-            "exp_total": 45896.912301854405
+            "exp_total": 46789.04582515689
           },
           "rank": 3,
           "player_name": "tuyen1312121",
@@ -3047,5 +3047,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761917461183
+  "timestamp": 1761920492067
 }
