@@ -895,7 +895,7 @@
           "main_stat": 1,
           "extra_stats": {
             "level": 78,
-            "exp_total": 9248057.607025456
+            "exp_total": 9248787.207025442
           },
           "rank": 5,
           "player_name": "tuyen1312121",
@@ -3017,5 +3017,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761892334761
+  "timestamp": 1761895190167
 }
