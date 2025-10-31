@@ -1,5 +1,5 @@
 {
-  "total": 53,
+  "total": 54,
   "players": [
     {
       "money": 0,
@@ -23,11 +23,11 @@
       "lastPlayed": 1761810395538
     },
     {
-      "money": 21897,
+      "money": 111944,
       "name": "tuyen1312121",
       "isOnline": true,
       "uuid": "e4183a1d-cc18-30da-9899-a2e106fbaca6",
-      "lastPlayed": 1761894662133
+      "lastPlayed": 1761896525528
     },
     {
       "money": 0,
@@ -121,11 +121,11 @@
       "lastPlayed": 1761810444377
     },
     {
-      "money": 210778.5,
+      "money": 110698.5,
       "name": "bachthai",
       "isOnline": false,
       "uuid": "bb416577-5473-3e27-b637-86749e072361",
-      "lastPlayed": 1761887297969
+      "lastPlayed": 1761898661905
     },
     {
       "money": 5000,
@@ -210,6 +210,13 @@
       "isOnline": false,
       "uuid": "6181456e-e62e-3cc9-8175-33d6e6f01775",
       "lastPlayed": 1758570291956
+    },
+    {
+      "money": 0,
+      "name": "bodz",
+      "isOnline": true,
+      "uuid": "ad58a139-c4fc-370a-913a-594a6287898e",
+      "lastPlayed": 0
     },
     {
       "money": 0,
@@ -373,5 +380,5 @@
       "lastPlayed": 1761890405051
     }
   ],
-  "timestamp": 1761895191182
+  "timestamp": 1761899280613
 }
