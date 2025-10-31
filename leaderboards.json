@@ -1100,6 +1100,16 @@
           "rank": 24,
           "player_name": "themoontle",
           "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 552
+          },
+          "rank": 25,
+          "player_name": "nobnotfound",
+          "player_uuid": "470e817f-2100-3c50-b00a-45e7c036767b"
         }
       ],
       "profile": "MiningProfile",
@@ -2460,21 +2470,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 4,
-            "exp_total": 1644.0000000596046
+            "exp_total": 1792
           },
           "rank": 24,
-          "player_name": "Duoitoasenvang",
-          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
+          "player_name": "nobnotfound",
+          "player_uuid": "470e817f-2100-3c50-b00a-45e7c036767b"
         },
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 3,
-            "exp_total": 1572
+            "level": 4,
+            "exp_total": 1644.0000000596046
           },
           "rank": 25,
-          "player_name": "nobnotfound",
-          "player_uuid": "470e817f-2100-3c50-b00a-45e7c036767b"
+          "player_name": "Duoitoasenvang",
+          "player_uuid": "969c3f08-38b2-3e87-9d6c-eb8c0e2c8df3"
         },
         {
           "main_stat": 0,
@@ -3037,5 +3047,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1761906164394
+  "timestamp": 1761909454483
 }
