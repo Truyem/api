@@ -2162,8 +2162,8 @@
         {
           "main_stat": 0,
           "extra_stats": {
-            "level": 19,
-            "exp_total": 10456.902286558618
+            "level": 21,
+            "exp_total": 12253.389843541994
           },
           "rank": 14,
           "player_name": "Nuru",
@@ -2732,7 +2732,7 @@
           "player_uuid": "9a1a8205-d5fa-3d91-91c4-fa7cf68eea3a"
         },
         {
-          "main_stat": 3500,
+          "main_stat": 3700,
           "extra_stats": {
             "level": 4
           },
@@ -2972,6 +2972,16 @@
           "rank": 19,
           "player_name": "themoontle",
           "player_uuid": "d363ef43-79c7-3b89-a67c-cdacb9518388"
+        },
+        {
+          "main_stat": 0,
+          "extra_stats": {
+            "level": 1,
+            "exp_total": 519.217363074759
+          },
+          "rank": 20,
+          "player_name": "Nuru",
+          "player_uuid": "a75614c1-9939-3948-bda8-7ff7129bcb3e"
         }
       ],
       "profile": "MartialArtsProfile",
@@ -3076,5 +3086,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1762024474863
+  "timestamp": 1762028393980
 }
