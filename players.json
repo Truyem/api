@@ -1,5 +1,5 @@
 {
-  "total": 54,
+  "total": 55,
   "players": [
     {
       "money": 0,
@@ -83,7 +83,7 @@
       "name": "nunuem",
       "isOnline": false,
       "uuid": "b2a52ee5-a193-3dec-921a-29dbdc615926",
-      "lastPlayed": 1757953089225
+      "lastPlayed": 1762022670611
     },
     {
       "money": 3214,
@@ -303,11 +303,11 @@
       "lastPlayed": 1758709188754
     },
     {
-      "money": 74741201368.04091,
+      "money": 74741197858.04091,
       "name": "Truyem789",
-      "isOnline": false,
+      "isOnline": true,
       "uuid": "245492c3-530b-3a87-8f09-d1d3983be20b",
-      "lastPlayed": 1761929242530
+      "lastPlayed": 1762022634028
     },
     {
       "money": 6134,
@@ -366,6 +366,13 @@
       "lastPlayed": 1758437988908
     },
     {
+      "money": 2000000,
+      "name": "Nuru",
+      "isOnline": true,
+      "uuid": "a75614c1-9939-3948-bda8-7ff7129bcb3e",
+      "lastPlayed": 0
+    },
+    {
       "money": 0,
       "name": "ErenNigga",
       "isOnline": false,
@@ -380,5 +387,5 @@
       "lastPlayed": 1761890405051
     }
   ],
-  "timestamp": 1762021639711
+  "timestamp": 1762024476033
 }
