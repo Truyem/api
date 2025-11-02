@@ -1906,7 +1906,7 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 8,
-            "exp_total": 3620
+            "exp_total": 3700
           },
           "rank": 21,
           "player_name": "Tralaleo",
@@ -2440,21 +2440,21 @@
           "main_stat": 0,
           "extra_stats": {
             "level": 11,
-            "exp_total": 5048
+            "exp_total": 5050
           },
           "rank": 19,
-          "player_name": "Toan",
-          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
+          "player_name": "Tralaleo",
+          "player_uuid": "fa296c27-4443-30b7-bd25-8acd93183e88"
         },
         {
           "main_stat": 0,
           "extra_stats": {
             "level": 11,
-            "exp_total": 4910
+            "exp_total": 5048
           },
           "rank": 20,
-          "player_name": "Tralaleo",
-          "player_uuid": "fa296c27-4443-30b7-bd25-8acd93183e88"
+          "player_name": "Toan",
+          "player_uuid": "a9615ce4-6a24-3ebd-a3e0-66a4f5ffdc13"
         },
         {
           "main_stat": 0,
@@ -3086,5 +3086,5 @@
       "key": "archery"
     }
   ],
-  "timestamp": 1762071806865
+  "timestamp": 1762075118062
 }
